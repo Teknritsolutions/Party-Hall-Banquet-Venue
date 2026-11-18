@@ -1,0 +1,8 @@
+
+const assert=require('node:assert/strict');
+let pw;try{pw=require('playwright')}catch{pw=require('D:/Hobby & Board Games Store/node_modules/playwright')}
+const pages=['about','halls','hall-details','packages','pricing','services','service-details','gallery','blog','blog-details','contact'];
+(async()=>{const b=await pw.chromium.launch({channel:'chrome',headless:true});const p=await b.newPage({reducedMotion:'reduce'});const errors=[];p.on('pageerror',e=>errors.push(e.message));
+for(const name of pages){for(const width of [1440,390]){await p.setViewportSize({width,height:1000});await p.goto('http://127.0.0.1:4173/pages/'+name+'.html');await p.evaluate(()=>document.fonts.ready);const hero=p.locator('.page-intro-photo,.detail-hero-photo');assert.equal(await hero.count(),1,name+' photo hero');const m=await hero.evaluate(e=>({overflow:document.documentElement.scrollWidth>innerWidth,color:getComputedStyle(e.querySelector('h1')).color,clipped:[...e.querySelectorAll('h1,p,.breadcrumb')].some(t=>t.scrollWidth>t.clientWidth+1),image:e.classList.contains('detail-hero-photo')?e.querySelector('img').src:getComputedStyle(e).getPropertyValue('--page-hero')}));assert(!m.overflow&&!m.clipped,name+' '+width+' text fit');assert.equal(m.color,'rgb(255, 250, 243)');assert(m.image.includes('page-hero-'+name+'.webp'));assert(require('fs').statSync('assets/images/page-hero-'+name+'.webp').size>1000);if(['about','contact','hall-details'].includes(name))await hero.screenshot({path:"tests/screenshots/reviews/" + 'hero-'+name+'-'+width+'.png'});}
+console.log(name+': desktop and mobile passed');}
+assert.deepEqual(errors,[]);await b.close()})().catch(e=>{console.error(e);process.exit(1)});

@@ -1,0 +1,4076 @@
+{
+  "desktop": {
+    "title": "Maison Miette | Baby & Kids Clothing",
+    "headers": [
+      {
+        "tag": "HEADER",
+        "class": "site-header",
+        "text": "Maison Miette\nLITTLE LIVES, BEAUTIFULLY DRESSED\nHome\nAbout Us\nShop\nSize Guide\nGifting\nSale\nCont",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 1440,
+          "height": 85,
+          "top": 0,
+          "right": 1440,
+          "bottom": 85,
+          "left": 0
+        }
+      },
+      {
+        "tag": "HEADER",
+        "class": "gifting-head",
+        "text": "MADE FOR GIFTING\nLittle gifts, beautifully put together\n\nThoughtful pieces for new arrivals, bi",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 340,
+          "y": 5670.859375,
+          "width": 760,
+          "height": 172.078125,
+          "top": 5670.859375,
+          "right": 1100,
+          "bottom": 5842.9375,
+          "left": 340
+        }
+      }
+    ],
+    "type": [
+      {
+        "tag": "BUTTON",
+        "class": "nav-link dropdown-trigger is-active",
+        "text": "Home",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 412.015625,
+          "y": 20,
+          "width": 73.625,
+          "height": 44,
+          "top": 20,
+          "right": 485.640625,
+          "bottom": 64,
+          "left": 412.015625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "dropdown-link is-current",
+        "text": "",
+        "size": "15px",
+        "weight": "400",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 403.015625,
+          "y": 77,
+          "width": 172,
+          "height": 42,
+          "top": 77,
+          "right": 575.015625,
+          "bottom": 119,
+          "left": 403.015625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "dropdown-link",
+        "text": "",
+        "size": "15px",
+        "weight": "400",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 403.015625,
+          "y": 119,
+          "width": 172,
+          "height": 42,
+          "top": 119,
+          "right": 575.015625,
+          "bottom": 161,
+          "left": 403.015625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "nav-link",
+        "text": "About Us",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 516.59375,
+          "y": 20,
+          "width": 65.015625,
+          "height": 44,
+          "top": 20,
+          "right": 581.609375,
+          "bottom": 64,
+          "left": 516.59375
+        }
+      },
+      {
+        "tag": "A",
+        "class": "nav-link",
+        "text": "Shop",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 612.5625,
+          "y": 20,
+          "width": 36.15625,
+          "height": 44,
+          "top": 20,
+          "right": 648.71875,
+          "bottom": 64,
+          "left": 612.5625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "nav-link",
+        "text": "Size Guide",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 679.671875,
+          "y": 20,
+          "width": 74.390625,
+          "height": 44,
+          "top": 20,
+          "right": 754.0625,
+          "bottom": 64,
+          "left": 679.671875
+        }
+      },
+      {
+        "tag": "A",
+        "class": "nav-link",
+        "text": "Gifting",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 785.015625,
+          "y": 20,
+          "width": 47.6875,
+          "height": 44,
+          "top": 20,
+          "right": 832.703125,
+          "bottom": 64,
+          "left": 785.015625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "nav-link sale-link",
+        "text": "Sale",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 863.65625,
+          "y": 20,
+          "width": 29.421875,
+          "height": 44,
+          "top": 20,
+          "right": 893.078125,
+          "bottom": 64,
+          "left": 863.65625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "nav-link",
+        "text": "Contact",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 924.03125,
+          "y": 20,
+          "width": 57.71875,
+          "height": 44,
+          "top": 20,
+          "right": 981.75,
+          "bottom": 64,
+          "left": 924.03125
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "icon-button desktop-action",
+        "text": "",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 1067.96875,
+          "y": 23,
+          "width": 38,
+          "height": 38,
+          "top": 23,
+          "right": 1105.96875,
+          "bottom": 61,
+          "left": 1067.96875
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "icon-button direction-button desktop-action",
+        "text": "RTL",
+        "size": "12px",
+        "weight": "600",
+        "line": "20.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 1112.96875,
+          "y": 23,
+          "width": 38,
+          "height": 38,
+          "top": 23,
+          "right": 1150.96875,
+          "bottom": 61,
+          "left": 1112.96875
+        }
+      },
+      {
+        "tag": "H1",
+        "class": "",
+        "text": "Little wardrobes,\nbeautifully lived in.",
+        "size": "74.16px",
+        "weight": "600",
+        "line": "76.3848px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 85.59375,
+          "y": 343.40625,
+          "width": 522.796875,
+          "height": 229.125,
+          "top": 343.40625,
+          "right": 608.390625,
+          "bottom": 572.53125,
+          "left": 85.59375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "hero-intro",
+        "text": "Elevated everyday pieces crafted for comfort, movement and all the wonder childhood brings.",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 85.59375,
+          "y": 597.53125,
+          "width": 522.796875,
+          "height": 54.375,
+          "top": 597.53125,
+          "right": 608.390625,
+          "bottom": 651.90625,
+          "left": 85.59375
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Shop by age",
+        "size": "50px",
+        "weight": "600",
+        "line": "56px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 57.59375,
+          "y": 1162.703125,
+          "width": 256.0625,
+          "height": 56,
+          "top": 1162.703125,
+          "right": 313.65625,
+          "bottom": 1218.703125,
+          "left": 57.59375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "From first cuddles to bigger adventures, discover thoughtfully designed styles shaped around ev",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 852.40625,
+          "y": 1164.328125,
+          "width": 530,
+          "height": 54.375,
+          "top": 1164.328125,
+          "right": 1382.40625,
+          "bottom": 1218.703125,
+          "left": 852.40625
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "0–12 Months",
+        "size": "20px",
+        "weight": "600",
+        "line": "26px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 59.59375,
+          "y": 1694.6875,
+          "width": 182.15625,
+          "height": 26,
+          "top": 1694.6875,
+          "right": 241.75,
+          "bottom": 1720.6875,
+          "left": 59.59375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Cloud-soft essentials for first days, tiny discoveries and everything between.",
+        "size": "16px",
+        "weight": "400",
+        "line": "25.6px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 59.59375,
+          "y": 1729.6875,
+          "width": 182.15625,
+          "height": 102.375,
+          "top": 1729.6875,
+          "right": 241.75,
+          "bottom": 1832.0625,
+          "left": 59.59375
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "1–3 Years",
+        "size": "20px",
+        "weight": "600",
+        "line": "26px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 397.984375,
+          "y": 1771.53125,
+          "width": 182.171875,
+          "height": 26,
+          "top": 1771.53125,
+          "right": 580.15625,
+          "bottom": 1797.53125,
+          "left": 397.984375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Easy layers and playful shapes made for curious, always-moving little ones.",
+        "size": "16px",
+        "weight": "400",
+        "line": "25.6px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 397.984375,
+          "y": 1806.53125,
+          "width": 182.171875,
+          "height": 102.375,
+          "top": 1806.53125,
+          "right": 580.15625,
+          "bottom": 1908.90625,
+          "left": 397.984375
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "4–7 Years",
+        "size": "20px",
+        "weight": "600",
+        "line": "26px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 736.390625,
+          "y": 1694.703125,
+          "width": 182.171875,
+          "height": 26,
+          "top": 1694.703125,
+          "right": 918.5625,
+          "bottom": 1720.703125,
+          "left": 736.390625
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Polished, comfortable favourites ready for school days and weekend stories.",
+        "size": "16px",
+        "weight": "400",
+        "line": "25.6px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 736.390625,
+          "y": 1729.703125,
+          "width": 182.171875,
+          "height": 102.375,
+          "top": 1729.703125,
+          "right": 918.5625,
+          "bottom": 1832.078125,
+          "left": 736.390625
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "8–12 Years",
+        "size": "20px",
+        "weight": "600",
+        "line": "26px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 1074.796875,
+          "y": 1771.53125,
+          "width": 182.171875,
+          "height": 26,
+          "top": 1771.53125,
+          "right": 1256.96875,
+          "bottom": 1797.53125,
+          "left": 1074.796875
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Confident modern separates for growing personalities and independent style.",
+        "size": "16px",
+        "weight": "400",
+        "line": "25.6px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 1074.796875,
+          "y": 1806.53125,
+          "width": 182.171875,
+          "height": 102.375,
+          "top": 1806.53125,
+          "right": 1256.96875,
+          "bottom": 1908.90625,
+          "left": 1074.796875
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Made for every little moment",
+        "size": "50px",
+        "weight": "600",
+        "line": "56px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 57.59375,
+          "y": 2157.296875,
+          "width": 717.03125,
+          "height": 56,
+          "top": 2157.296875,
+          "right": 774.625,
+          "bottom": 2213.296875,
+          "left": 57.59375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "A considered edit of beautifully made pieces—ready for classroom confidence, weekend play and e",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 844.625,
+          "y": 2158.921875,
+          "width": 520,
+          "height": 54.375,
+          "top": 2158.921875,
+          "right": 1364.625,
+          "bottom": 2213.296875,
+          "left": 844.625
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "School Uniforms",
+        "size": "36px",
+        "weight": "600",
+        "line": "43.2px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 92.59375,
+          "y": 2834.515625,
+          "width": 364.453125,
+          "height": 43.1875,
+          "top": 2834.515625,
+          "right": 457.046875,
+          "bottom": 2877.703125,
+          "left": 92.59375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Smart, durable and comfortable pieces for confident school days.",
+        "size": "12px",
+        "weight": "400",
+        "line": "18.6px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 92.59375,
+          "y": 2885.703125,
+          "width": 364.453125,
+          "height": 18.59375,
+          "top": 2885.703125,
+          "right": 457.046875,
+          "bottom": 2904.296875,
+          "left": 92.59375
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Tops",
+        "size": "24px",
+        "weight": "600",
+        "line": "28.8px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 877.0625,
+          "y": 2508.90625,
+          "width": 182.515625,
+          "height": 28.796875,
+          "top": 2508.90625,
+          "right": 1059.578125,
+          "bottom": 2537.703125,
+          "left": 877.0625
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Soft layers with thoughtful detail.",
+        "size": "12px",
+        "weight": "400",
+        "line": "18.6px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 877.0625,
+          "y": 2545.703125,
+          "width": 182.515625,
+          "height": 18.59375,
+          "top": 2545.703125,
+          "right": 1059.578125,
+          "bottom": 2564.296875,
+          "left": 877.0625
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Bottoms",
+        "size": "24px",
+        "weight": "600",
+        "line": "28.8px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 877.0625,
+          "y": 2779.3125,
+          "width": 134.140625,
+          "height": 28.796875,
+          "top": 2779.3125,
+          "right": 1011.203125,
+          "bottom": 2808.109375,
+          "left": 877.0625
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Easy movement, polished shape.",
+        "size": "12px",
+        "weight": "400",
+        "line": "18.6px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 877.0625,
+          "y": 2816.109375,
+          "width": 134.140625,
+          "height": 37.1875,
+          "top": 2816.109375,
+          "right": 1011.203125,
+          "bottom": 2853.296875,
+          "left": 877.0625
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Sets",
+        "size": "24px",
+        "weight": "600",
+        "line": "28.8px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 1101.203125,
+          "y": 2797.90625,
+          "width": 246.203125,
+          "height": 28.796875,
+          "top": 2797.90625,
+          "right": 1347.40625,
+          "bottom": 2826.703125,
+          "left": 1101.203125
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Effortless pairings, beautifully resolved.",
+        "size": "12px",
+        "weight": "400",
+        "line": "18.6px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 1101.203125,
+          "y": 2834.703125,
+          "width": 246.203125,
+          "height": 18.59375,
+          "top": 2834.703125,
+          "right": 1347.40625,
+          "bottom": 2853.296875,
+          "left": 1101.203125
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Layered for days\nfull of wonder.",
+        "size": "50px",
+        "weight": "600",
+        "line": "56px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 843.828125,
+          "y": 3189.140625,
+          "width": 538.578125,
+          "height": 112,
+          "top": 3189.140625,
+          "right": 1382.40625,
+          "bottom": 3301.140625,
+          "left": 843.828125
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Quietly luxurious layers made for crisp mornings, changing skies and the small adventures that ",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 843.828125,
+          "y": 3323.140625,
+          "width": 538.578125,
+          "height": 54.375,
+          "top": 3323.140625,
+          "right": 1382.40625,
+          "bottom": 3377.515625,
+          "left": 843.828125
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Fresh little favourites",
+        "size": "50px",
+        "weight": "600",
+        "line": "56px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 57.59375,
+          "y": 3959.75,
+          "width": 669.34375,
+          "height": 56,
+          "top": 3959.75,
+          "right": 726.9375,
+          "bottom": 4015.75,
+          "left": 57.59375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Newly arrived pieces, thoughtfully made for comfort, character and beautifully busy days.",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 780.9375,
+          "y": 3961.375,
+          "width": 435.078125,
+          "height": 54.375,
+          "top": 3961.375,
+          "right": 1216.015625,
+          "bottom": 4015.75,
+          "left": 780.9375
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "product-wishlist",
+        "text": "",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 317.796875,
+          "y": 4074.75,
+          "width": 42,
+          "height": 42,
+          "top": 4074.75,
+          "right": 359.796875,
+          "bottom": 4116.75,
+          "left": 317.796875
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Organic Cotton Romper",
+        "size": "16px",
+        "weight": "600",
+        "line": "21.6px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 59.59375,
+          "y": 4505.4375,
+          "width": 309.203125,
+          "height": 21.59375,
+          "top": 4505.4375,
+          "right": 368.796875,
+          "bottom": 4527.03125,
+          "left": 59.59375
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "product-wishlist",
+        "text": "",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 655,
+          "y": 4074.75,
+          "width": 42,
+          "height": 42,
+          "top": 4074.75,
+          "right": 697,
+          "bottom": 4116.75,
+          "left": 655
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Soft Knit Cardigan",
+        "size": "16px",
+        "weight": "600",
+        "line": "21.6px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 396.796875,
+          "y": 4505.4375,
+          "width": 309.203125,
+          "height": 21.59375,
+          "top": 4505.4375,
+          "right": 706,
+          "bottom": 4527.03125,
+          "left": 396.796875
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "product-wishlist",
+        "text": "",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 992.203125,
+          "y": 4074.75,
+          "width": 42,
+          "height": 42,
+          "top": 4074.75,
+          "right": 1034.203125,
+          "bottom": 4116.75,
+          "left": 992.203125
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Everyday Play Set",
+        "size": "16px",
+        "weight": "600",
+        "line": "21.6px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 734,
+          "y": 4505.4375,
+          "width": 309.203125,
+          "height": 21.59375,
+          "top": 4505.4375,
+          "right": 1043.203125,
+          "bottom": 4527.03125,
+          "left": 734
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "product-wishlist",
+        "text": "",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 1329.40625,
+          "y": 4074.75,
+          "width": 42,
+          "height": 42,
+          "top": 4074.75,
+          "right": 1371.40625,
+          "bottom": 4116.75,
+          "left": 1329.40625
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Classic School Polo",
+        "size": "16px",
+        "weight": "600",
+        "line": "21.6px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 1071.203125,
+          "y": 4505.4375,
+          "width": 309.203125,
+          "height": 21.59375,
+          "top": 4505.4375,
+          "right": 1380.40625,
+          "bottom": 4527.03125,
+          "left": 1071.203125
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Smart fits for busy school days",
+        "size": "50px",
+        "weight": "600",
+        "line": "56px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 137.78125,
+          "y": 4891.109375,
+          "width": 436.890625,
+          "height": 112,
+          "top": 4891.109375,
+          "right": 574.671875,
+          "bottom": 5003.109375,
+          "left": 137.78125
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Polished uniforms designed around real school days—with lasting comfort, dependable durability ",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 137.78125,
+          "y": 5025.109375,
+          "width": 436.890625,
+          "height": 81.5625,
+          "top": 5025.109375,
+          "right": 574.671875,
+          "bottom": 5106.671875,
+          "left": 137.78125
+        }
+      },
+      {
+        "tag": "P",
+        "class": "uniform-feature-callout",
+        "text": "i\nNeed uniforms for a school or group? We can help.",
+        "size": "12px",
+        "weight": "400",
+        "line": "18px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 137.78125,
+          "y": 5378.671875,
+          "width": 436.890625,
+          "height": 20,
+          "top": 5378.671875,
+          "right": 574.671875,
+          "bottom": 5398.671875,
+          "left": 137.78125
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Little gifts, beautifully put together",
+        "size": "50px",
+        "weight": "600",
+        "line": "56px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 340,
+          "y": 5712.5625,
+          "width": 760,
+          "height": 56,
+          "top": 5712.5625,
+          "right": 1100,
+          "bottom": 5768.5625,
+          "left": 340
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Thoughtful pieces for new arrivals, birthdays and meaningful milestones—carefully selected, sof",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 395,
+          "y": 5788.5625,
+          "width": 650,
+          "height": 54.375,
+          "top": 5788.5625,
+          "right": 1045,
+          "bottom": 5842.9375,
+          "left": 395
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Newborn Gift Sets",
+        "size": "24px",
+        "weight": "600",
+        "line": "30px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 62.59375,
+          "y": 6516.765625,
+          "width": 407.59375,
+          "height": 30,
+          "top": 6516.765625,
+          "right": 470.1875,
+          "bottom": 6546.765625,
+          "left": 62.59375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Organic first layers, comforting knits and keepsake details for their earliest days.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 62.59375,
+          "y": 6558.765625,
+          "width": 407.59375,
+          "height": 52.78125,
+          "top": 6558.765625,
+          "right": 470.1875,
+          "bottom": 6611.546875,
+          "left": 62.59375
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Birthday Favourites",
+        "size": "24px",
+        "weight": "600",
+        "line": "30px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 516.1875,
+          "y": 6558.796875,
+          "width": 407.609375,
+          "height": 30,
+          "top": 6558.796875,
+          "right": 923.796875,
+          "bottom": 6588.796875,
+          "left": 516.1875
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Celebration-ready outfits and considered little treasures chosen to delight.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 516.1875,
+          "y": 6600.796875,
+          "width": 407.609375,
+          "height": 52.78125,
+          "top": 6600.796875,
+          "right": 923.796875,
+          "bottom": 6653.578125,
+          "left": 516.1875
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Seasonal Gift Boxes",
+        "size": "24px",
+        "weight": "600",
+        "line": "30px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 969.796875,
+          "y": 6516.765625,
+          "width": 407.59375,
+          "height": 30,
+          "top": 6516.765625,
+          "right": 1377.390625,
+          "bottom": 6546.765625,
+          "left": 969.796875
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Warm textures and timeless favourites composed for thoughtful seasonal giving.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 969.796875,
+          "y": 6558.765625,
+          "width": 407.59375,
+          "height": 52.78125,
+          "top": 6558.765625,
+          "right": 1377.390625,
+          "bottom": 6611.546875,
+          "left": 969.796875
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Little styles,\nlovely prices",
+        "size": "50px",
+        "weight": "600",
+        "line": "56px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 130.59375,
+          "y": 7215.515625,
+          "width": 261.109375,
+          "height": 112,
+          "top": 7215.515625,
+          "right": 391.703125,
+          "bottom": 7327.515625,
+          "left": 130.59375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Considered seasonal pieces and beautifully made favourites, now at quieter prices for a limited",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 130.59375,
+          "y": 7347.515625,
+          "width": 476,
+          "height": 54.375,
+          "top": 7347.515625,
+          "right": 606.59375,
+          "bottom": 7401.890625,
+          "left": 130.59375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Up to 40% off\nselected favourites",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 308.953125,
+          "y": 7439.15625,
+          "width": 105.953125,
+          "height": 50.578125,
+          "top": 7439.15625,
+          "right": 414.90625,
+          "bottom": 7489.734375,
+          "left": 308.953125
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Thoughtful details, everyday comfort",
+        "size": "50px",
+        "weight": "600",
+        "line": "56px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 57.59375,
+          "y": 7945.96875,
+          "width": 720,
+          "height": 112,
+          "top": 7945.96875,
+          "right": 777.59375,
+          "bottom": 8057.96875,
+          "left": 57.59375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "From the first sketch to the final stitch, every piece is considered for softness, movement and",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 857.96875,
+          "y": 7974.78125,
+          "width": 524.4375,
+          "height": 54.375,
+          "top": 7974.78125,
+          "right": 1382.40625,
+          "bottom": 8029.15625,
+          "left": 857.96875
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Soft & Comfortable",
+        "size": "20px",
+        "weight": "600",
+        "line": "26px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 100.78125,
+          "y": 8246.15625,
+          "width": 244.828125,
+          "height": 26,
+          "top": 8246.15625,
+          "right": 345.609375,
+          "bottom": 8272.15625,
+          "left": 100.78125
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Gentle textures chosen to feel beautiful against delicate skin, all day long.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 100.78125,
+          "y": 8283.15625,
+          "width": 244.828125,
+          "height": 79.171875,
+          "top": 8283.15625,
+          "right": 345.609375,
+          "bottom": 8362.328125,
+          "left": 100.78125
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Quality Fabrics",
+        "size": "20px",
+        "weight": "600",
+        "line": "26px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 432.984375,
+          "y": 8246.15625,
+          "width": 243.828125,
+          "height": 26,
+          "top": 8246.15625,
+          "right": 676.8125,
+          "bottom": 8272.15625,
+          "left": 432.984375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Considered natural fibres and dependable blends selected for comfort and wear.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 432.984375,
+          "y": 8283.15625,
+          "width": 243.828125,
+          "height": 79.171875,
+          "top": 8283.15625,
+          "right": 676.8125,
+          "bottom": 8362.328125,
+          "left": 432.984375
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Easy Everyday Fits",
+        "size": "20px",
+        "weight": "600",
+        "line": "26px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 764.1875,
+          "y": 8246.15625,
+          "width": 243.828125,
+          "height": 26,
+          "top": 8246.15625,
+          "right": 1008.015625,
+          "bottom": 8272.15625,
+          "left": 764.1875
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Room to move, play and grow—shaped for real routines and little adventures.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 764.1875,
+          "y": 8283.15625,
+          "width": 243.828125,
+          "height": 79.171875,
+          "top": 8283.15625,
+          "right": 1008.015625,
+          "bottom": 8362.328125,
+          "left": 764.1875
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Thoughtfully Made",
+        "size": "20px",
+        "weight": "600",
+        "line": "26px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 1095.390625,
+          "y": 8246.15625,
+          "width": 243.828125,
+          "height": 26,
+          "top": 8246.15625,
+          "right": 1339.21875,
+          "bottom": 8272.15625,
+          "left": 1095.390625
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Purposeful details, careful finishing and enduring style in every little piece.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 1095.390625,
+          "y": 8283.15625,
+          "width": 243.828125,
+          "height": 79.171875,
+          "top": 8283.15625,
+          "right": 1339.21875,
+          "bottom": 8362.328125,
+          "left": 1095.390625
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Worn, loved, and passed along",
+        "size": "50px",
+        "weight": "600",
+        "line": "56px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 330,
+          "y": 8640.21875,
+          "width": 780,
+          "height": 56,
+          "top": 8640.21875,
+          "right": 1110,
+          "bottom": 8696.21875,
+          "left": 330
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Kind words from families who choose thoughtful fabrics, comfortable fits and pieces made to bec",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 395,
+          "y": 8716.21875,
+          "width": 650,
+          "height": 54.375,
+          "top": 8716.21875,
+          "right": 1045,
+          "bottom": 8770.59375,
+          "left": 395
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Everyday style inspiration",
+        "size": "50px",
+        "weight": "600",
+        "line": "56px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 57.59375,
+          "y": 9450.078125,
+          "width": 746.90625,
+          "height": 56,
+          "top": 9450.078125,
+          "right": 804.5,
+          "bottom": 9506.078125,
+          "left": 57.59375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Considered layers, easy silhouettes and beautifully wearable ideas for every little day.",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 874.5,
+          "y": 9451.703125,
+          "width": 507.890625,
+          "height": 54.375,
+          "top": 9451.703125,
+          "right": 1382.390625,
+          "bottom": 9506.078125,
+          "left": 874.5
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "New drops, thoughtful gifts & seasonal favourites",
+        "size": "50px",
+        "weight": "600",
+        "line": "56px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 141.59375,
+          "y": 10538.78125,
+          "width": 554.40625,
+          "height": 168,
+          "top": 10538.78125,
+          "right": 696,
+          "bottom": 10706.78125,
+          "left": 141.59375
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "A considered note when something beautiful arrives—new collections, gifting ideas and private s",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 141.59375,
+          "y": 10726.78125,
+          "width": 554.40625,
+          "height": 54.375,
+          "top": 10726.78125,
+          "right": 696,
+          "bottom": 10781.15625,
+          "left": 141.59375
+        }
+      },
+      {
+        "tag": "LABEL",
+        "class": "sr-only",
+        "text": "Email address",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 795.796875,
+          "y": 10572.421875,
+          "width": 1,
+          "height": 1,
+          "top": 10572.421875,
+          "right": 796.796875,
+          "bottom": 10573.421875,
+          "left": 795.796875
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "",
+        "text": "Subscribe",
+        "size": "12px",
+        "weight": "600",
+        "line": "20.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 1155.671875,
+          "y": 10581.421875,
+          "width": 134.734375,
+          "height": 46,
+          "top": 10581.421875,
+          "right": 1290.40625,
+          "bottom": 10627.421875,
+          "left": 1155.671875
+        }
+      },
+      {
+        "tag": "P",
+        "class": "newsletter-note",
+        "text": "No clutter. Just the good stuff.",
+        "size": "12px",
+        "weight": "400",
+        "line": "18px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 799.796875,
+          "y": 10648.421875,
+          "width": 495.609375,
+          "height": 18,
+          "top": 10648.421875,
+          "right": 1295.40625,
+          "bottom": 10666.421875,
+          "left": 799.796875
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Considered clothing for childhood—soft on skin, gentle in spirit and made for the memories betw",
+        "size": "12px",
+        "weight": "400",
+        "line": "20.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 57.59375,
+          "y": 11132.34375,
+          "width": 304.578125,
+          "height": 61.171875,
+          "top": 11132.34375,
+          "right": 362.171875,
+          "bottom": 11193.515625,
+          "left": 57.59375
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Shop",
+        "size": "20px",
+        "weight": "600",
+        "line": "26px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 448.5625,
+          "y": 11063.15625,
+          "width": 46.390625,
+          "height": 26,
+          "top": 11063.15625,
+          "right": 494.953125,
+          "bottom": 11089.15625,
+          "left": 448.5625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "Shop all",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 448.5625,
+          "y": 11109.15625,
+          "width": 50.828125,
+          "height": 34,
+          "top": 11109.15625,
+          "right": 499.390625,
+          "bottom": 11143.15625,
+          "left": 448.5625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "New Arrivals",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 448.5625,
+          "y": 11143.15625,
+          "width": 79.5625,
+          "height": 34,
+          "top": 11143.15625,
+          "right": 528.125,
+          "bottom": 11177.15625,
+          "left": 448.5625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "Tops",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 448.5625,
+          "y": 11177.15625,
+          "width": 30.703125,
+          "height": 34,
+          "top": 11177.15625,
+          "right": 479.265625,
+          "bottom": 11211.15625,
+          "left": 448.5625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "Bottoms",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 448.5625,
+          "y": 11211.15625,
+          "width": 55.0625,
+          "height": 34,
+          "top": 11211.15625,
+          "right": 503.625,
+          "bottom": 11245.15625,
+          "left": 448.5625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "School Uniforms",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 448.5625,
+          "y": 11245.15625,
+          "width": 105.671875,
+          "height": 34,
+          "top": 11245.15625,
+          "right": 554.234375,
+          "bottom": 11279.15625,
+          "left": 448.5625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "Sets",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 448.5625,
+          "y": 11279.15625,
+          "width": 28.359375,
+          "height": 34,
+          "top": 11279.15625,
+          "right": 476.921875,
+          "bottom": 11313.15625,
+          "left": 448.5625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "Sale",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 448.5625,
+          "y": 11313.15625,
+          "width": 26.8125,
+          "height": 34,
+          "top": 11313.15625,
+          "right": 475.375,
+          "bottom": 11347.15625,
+          "left": 448.5625
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Explore",
+        "size": "20px",
+        "weight": "600",
+        "line": "26px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 671.703125,
+          "y": 11063.15625,
+          "width": 70.96875,
+          "height": 26,
+          "top": 11063.15625,
+          "right": 742.671875,
+          "bottom": 11089.15625,
+          "left": 671.703125
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "Home Page 1",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 671.703125,
+          "y": 11109.15625,
+          "width": 80.984375,
+          "height": 34,
+          "top": 11109.15625,
+          "right": 752.6875,
+          "bottom": 11143.15625,
+          "left": 671.703125
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "Home Page 2",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 671.703125,
+          "y": 11143.15625,
+          "width": 84.6875,
+          "height": 34,
+          "top": 11143.15625,
+          "right": 756.390625,
+          "bottom": 11177.15625,
+          "left": 671.703125
+        }
+      }
+    ],
+    "links": [
+      {
+        "text": "Maison Miette\nLITTLE LIVES, BEAUTIFULLY DRESSED",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html"
+      },
+      {
+        "text": "About Us",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/about.html"
+      },
+      {
+        "text": "Shop",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html"
+      },
+      {
+        "text": "Size Guide",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/size-guide.html"
+      },
+      {
+        "text": "Gifting",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html"
+      },
+      {
+        "text": "Sale",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/sale.html"
+      },
+      {
+        "text": "Contact",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/contact.html"
+      },
+      {
+        "text": "0",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#wishlist"
+      },
+      {
+        "text": "0",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#cart"
+      },
+      {
+        "text": "Shop Collection",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html"
+      },
+      {
+        "text": "Shop New Arrivals",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#new-arrivals"
+      },
+      {
+        "text": "Explore Collections",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html"
+      },
+      {
+        "text": "01\n0–12 Months\n\nCloud-soft essentials for first days, tiny discoveries and everything between.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#baby"
+      },
+      {
+        "text": "02\n1–3 Years\n\nEasy layers and playful shapes made for curious, always-moving little ones.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#toddlers"
+      },
+      {
+        "text": "03\n4–7 Years\n\nPolished, comfortable favourites ready for school days and weekend stories.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#kids"
+      },
+      {
+        "text": "04\n8–12 Years\n\nConfident modern separates for growing personalities and independent style.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#preteen"
+      },
+      {
+        "text": "THE UNIFORM EDIT\nSchool Uniforms\n\nSmart, durable and comfortable pieces for confident school days.\n\nShop Category",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#uniforms"
+      },
+      {
+        "text": "Tops\n\nSoft layers with thoughtful detail.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#tops"
+      },
+      {
+        "text": "Bottoms\n\nEasy movement, polished shape.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#bottoms"
+      },
+      {
+        "text": "Sets\n\nEffortless pairings, beautifully resolved.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#sets"
+      },
+      {
+        "text": "Discover the Collection",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#autumn-winter"
+      },
+      {
+        "text": "View All",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#new-arrivals"
+      },
+      {
+        "text": "Add to cart",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#organic-romper"
+      },
+      {
+        "text": "Organic Cotton Romper",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#organic-romper"
+      },
+      {
+        "text": "Add to cart",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#knit-cardigan"
+      },
+      {
+        "text": "Soft Knit Cardigan",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#knit-cardigan"
+      },
+      {
+        "text": "Add to cart",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#play-set"
+      },
+      {
+        "text": "Everyday Play Set",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#play-set"
+      },
+      {
+        "text": "Add to cart",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#school-polo"
+      },
+      {
+        "text": "Classic School Polo",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#school-polo"
+      },
+      {
+        "text": "Shop Uniforms",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#uniforms"
+      },
+      {
+        "text": "Bulk Order Enquiry",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/contact.html#uniform-enquiry"
+      },
+      {
+        "text": "From ₹2,490",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html#newborn"
+      },
+      {
+        "text": "Explore Gifts",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html#newborn"
+      },
+      {
+        "text": "Birthday edit",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html#birthday"
+      },
+      {
+        "text": "Explore Gifts",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html#birthday"
+      },
+      {
+        "text": "Limited collection",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html#seasonal"
+      },
+      {
+        "text": "Explore Gifts",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html#seasonal"
+      },
+      {
+        "text": "Shop the Sale",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/sale.html"
+      },
+      {
+        "text": "View Look",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#dresses"
+      },
+      {
+        "text": "View Look",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#knitwear"
+      },
+      {
+        "text": "View Look",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#layers"
+      },
+      {
+        "text": "View Look",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#toddler"
+      },
+      {
+        "text": "View Look",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#girls"
+      },
+      {
+        "text": "View Look",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#uniforms"
+      },
+      {
+        "text": "Maison Miette",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html"
+      },
+      {
+        "text": "Shop all",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html"
+      },
+      {
+        "text": "New Arrivals",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#new-arrivals"
+      },
+      {
+        "text": "Tops",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#tops"
+      },
+      {
+        "text": "Bottoms",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#bottoms"
+      },
+      {
+        "text": "School Uniforms",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#uniforms"
+      },
+      {
+        "text": "Sets",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#sets"
+      },
+      {
+        "text": "Sale",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/sale.html"
+      },
+      {
+        "text": "Home Page 1",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html"
+      },
+      {
+        "text": "Home Page 2",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage2.html"
+      },
+      {
+        "text": "About Us",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/about.html"
+      },
+      {
+        "text": "Size Guide",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/size-guide.html"
+      },
+      {
+        "text": "Gifting",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html"
+      },
+      {
+        "text": "Contact",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/contact.html"
+      },
+      {
+        "text": "Shipping & Delivery",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#shipping"
+      },
+      {
+        "text": "Returns",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#returns"
+      },
+      {
+        "text": "Size Help",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/size-guide.html"
+      },
+      {
+        "text": "Bulk Orders",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/contact.html#bulk-orders"
+      },
+      {
+        "text": "School Uniform Enquiry",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/contact.html#uniform-enquiry"
+      },
+      {
+        "text": "FAQs",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#faqs"
+      },
+      {
+        "text": "hello@maisonmiette.com",
+        "url": "mailto:hello@maisonmiette.com"
+      },
+      {
+        "text": "+91 80001 23456",
+        "url": "tel:+918000123456"
+      },
+      {
+        "text": "Privacy Policy",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#privacy"
+      },
+      {
+        "text": "Terms & Conditions",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#terms"
+      },
+      {
+        "text": "Cookie Policy",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#cookies"
+      }
+    ]
+  },
+  "mobile": {
+    "title": "Maison Miette | Baby & Kids Clothing",
+    "headers": [
+      {
+        "tag": "HEADER",
+        "class": "site-header",
+        "text": "Maison Miette\nHome\nAbout Us\nShop\nSize Guide\nGifting\nSale\nContact\nDark mode\nRTL layout\nWishlist ",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 0,
+          "y": 0,
+          "width": 390,
+          "height": 69,
+          "top": 0,
+          "right": 390,
+          "bottom": 69,
+          "left": 0
+        }
+      },
+      {
+        "tag": "HEADER",
+        "class": "gifting-head",
+        "text": "MADE FOR GIFTING\nLittle gifts, beautifully put together\n\nThoughtful pieces for new arrivals, bi",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 9415,
+          "width": 350,
+          "height": 214.921875,
+          "top": 9415,
+          "right": 370,
+          "bottom": 9629.921875,
+          "left": 20
+        }
+      }
+    ],
+    "type": [
+      {
+        "tag": "BUTTON",
+        "class": "nav-link dropdown-trigger is-active",
+        "text": "Home",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 19.65625,
+          "y": 76.85270690917969,
+          "width": 350.6875,
+          "height": 50,
+          "top": 76.85270690917969,
+          "right": 370.34375,
+          "bottom": 126.85270690917969,
+          "left": 19.65625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "dropdown-link is-current",
+        "text": "",
+        "size": "15px",
+        "weight": "400",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 27.65625,
+          "y": 126.97770690917969,
+          "width": 334.6875,
+          "height": 42,
+          "top": 126.97770690917969,
+          "right": 362.34375,
+          "bottom": 168.9777069091797,
+          "left": 27.65625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "dropdown-link",
+        "text": "",
+        "size": "15px",
+        "weight": "400",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 27.65625,
+          "y": 168.9777069091797,
+          "width": 334.6875,
+          "height": 42,
+          "top": 168.9777069091797,
+          "right": 362.34375,
+          "bottom": 210.9777069091797,
+          "left": 27.65625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "nav-link",
+        "text": "About Us",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 19.65625,
+          "y": 127.10270690917969,
+          "width": 350.6875,
+          "height": 50,
+          "top": 127.10270690917969,
+          "right": 370.34375,
+          "bottom": 177.1027069091797,
+          "left": 19.65625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "nav-link",
+        "text": "Shop",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 19.65625,
+          "y": 177.1027069091797,
+          "width": 350.6875,
+          "height": 50,
+          "top": 177.1027069091797,
+          "right": 370.34375,
+          "bottom": 227.1027069091797,
+          "left": 19.65625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "nav-link",
+        "text": "Size Guide",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 19.65625,
+          "y": 227.1027069091797,
+          "width": 350.6875,
+          "height": 50.00001525878906,
+          "top": 227.1027069091797,
+          "right": 370.34375,
+          "bottom": 277.10272216796875,
+          "left": 19.65625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "nav-link",
+        "text": "Gifting",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 19.65625,
+          "y": 277.10272216796875,
+          "width": 350.6875,
+          "height": 50,
+          "top": 277.10272216796875,
+          "right": 370.34375,
+          "bottom": 327.10272216796875,
+          "left": 19.65625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "nav-link sale-link",
+        "text": "Sale",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 19.65625,
+          "y": 327.10272216796875,
+          "width": 350.6875,
+          "height": 50,
+          "top": 327.10272216796875,
+          "right": 370.34375,
+          "bottom": 377.10272216796875,
+          "left": 19.65625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "nav-link",
+        "text": "Contact",
+        "size": "15px",
+        "weight": "500",
+        "line": "25.5px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 19.65625,
+          "y": 377.10272216796875,
+          "width": 350.6875,
+          "height": 50,
+          "top": 377.10272216796875,
+          "right": 370.34375,
+          "bottom": 427.10272216796875,
+          "left": 19.65625
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "mobile-action",
+        "text": "Dark mode",
+        "size": "12px",
+        "weight": "400",
+        "line": "20.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 19.65625,
+          "y": 447.10272216796875,
+          "width": 350.6875,
+          "height": 48,
+          "top": 447.10272216796875,
+          "right": 370.34375,
+          "bottom": 495.10272216796875,
+          "left": 19.65625
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "mobile-action",
+        "text": "RTL layout",
+        "size": "12px",
+        "weight": "400",
+        "line": "20.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 19.65625,
+          "y": 505.10272216796875,
+          "width": 350.6875,
+          "height": 48,
+          "top": 505.10272216796875,
+          "right": 370.34375,
+          "bottom": 553.1027221679688,
+          "left": 19.65625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "mobile-action",
+        "text": "Wishlist 0",
+        "size": "12px",
+        "weight": "400",
+        "line": "20.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 19.65625,
+          "y": 563.1027221679688,
+          "width": 350.6875,
+          "height": 48,
+          "top": 563.1027221679688,
+          "right": 370.34375,
+          "bottom": 611.1027221679688,
+          "left": 19.65625
+        }
+      },
+      {
+        "tag": "A",
+        "class": "header-cta mobile-cta",
+        "text": "Shop Collection",
+        "size": "12px",
+        "weight": "600",
+        "line": "20.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 19.65625,
+          "y": 623.1027221679688,
+          "width": 350.6875,
+          "height": 42,
+          "top": 623.1027221679688,
+          "right": 370.34375,
+          "bottom": 665.1027221679688,
+          "left": 19.65625
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "menu-toggle",
+        "text": "",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 326,
+          "y": 12,
+          "width": 44,
+          "height": 44,
+          "top": 12,
+          "right": 370,
+          "bottom": 56,
+          "left": 326
+        }
+      },
+      {
+        "tag": "H1",
+        "class": "",
+        "text": "Little wardrobes,\n\nbeautifully lived in.",
+        "size": "42.12px",
+        "weight": "600",
+        "line": "43.3836px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 20,
+          "y": 175.703125,
+          "width": 350,
+          "height": 86.75,
+          "top": 175.703125,
+          "right": 370,
+          "bottom": 262.453125,
+          "left": 20
+        }
+      },
+      {
+        "tag": "P",
+        "class": "hero-intro",
+        "text": "Elevated everyday pieces crafted for comfort, movement and all the wonder childhood brings.",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 287.453125,
+          "width": 350,
+          "height": 81.5625,
+          "top": 287.453125,
+          "right": 370,
+          "bottom": 369.015625,
+          "left": 20
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Shop by age",
+        "size": "32px",
+        "weight": "600",
+        "line": "35.84px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 20,
+          "y": 1314.96875,
+          "width": 163.875,
+          "height": 35.828125,
+          "top": 1314.96875,
+          "right": 183.875,
+          "bottom": 1350.796875,
+          "left": 20
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "From first cuddles to bigger adventures, discover thoughtfully designed styles shaped around ev",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 1368.796875,
+          "width": 350,
+          "height": 81.5625,
+          "top": 1368.796875,
+          "right": 370,
+          "bottom": 1450.359375,
+          "left": 20
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "0–12 Months",
+        "size": "18px",
+        "weight": "600",
+        "line": "23.4px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 22,
+          "y": 1917.984375,
+          "width": 232.5625,
+          "height": 23.390625,
+          "top": 1917.984375,
+          "right": 254.5625,
+          "bottom": 1941.375,
+          "left": 22
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Cloud-soft essentials for first days, tiny discoveries and everything between.",
+        "size": "16px",
+        "weight": "400",
+        "line": "25.6px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 22,
+          "y": 1950.375,
+          "width": 232.5625,
+          "height": 76.78125,
+          "top": 1950.375,
+          "right": 254.5625,
+          "bottom": 2027.15625,
+          "left": 22
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "1–3 Years",
+        "size": "18px",
+        "weight": "600",
+        "line": "23.4px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 22,
+          "y": 2519.78125,
+          "width": 232.5625,
+          "height": 23.390625,
+          "top": 2519.78125,
+          "right": 254.5625,
+          "bottom": 2543.171875,
+          "left": 22
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Easy layers and playful shapes made for curious, always-moving little ones.",
+        "size": "16px",
+        "weight": "400",
+        "line": "25.6px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 22,
+          "y": 2552.171875,
+          "width": 232.5625,
+          "height": 76.78125,
+          "top": 2552.171875,
+          "right": 254.5625,
+          "bottom": 2628.953125,
+          "left": 22
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "4–7 Years",
+        "size": "18px",
+        "weight": "600",
+        "line": "23.4px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 22,
+          "y": 3121.578125,
+          "width": 232.5625,
+          "height": 23.390625,
+          "top": 3121.578125,
+          "right": 254.5625,
+          "bottom": 3144.96875,
+          "left": 22
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Polished, comfortable favourites ready for school days and weekend stories.",
+        "size": "16px",
+        "weight": "400",
+        "line": "25.6px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 22,
+          "y": 3153.96875,
+          "width": 232.5625,
+          "height": 76.78125,
+          "top": 3153.96875,
+          "right": 254.5625,
+          "bottom": 3230.75,
+          "left": 22
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "8–12 Years",
+        "size": "18px",
+        "weight": "600",
+        "line": "23.4px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 22,
+          "y": 3723.375,
+          "width": 232.5625,
+          "height": 23.390625,
+          "top": 3723.375,
+          "right": 254.5625,
+          "bottom": 3746.765625,
+          "left": 22
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Confident modern separates for growing personalities and independent style.",
+        "size": "16px",
+        "weight": "400",
+        "line": "25.6px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 22,
+          "y": 3755.765625,
+          "width": 232.5625,
+          "height": 76.78125,
+          "top": 3755.765625,
+          "right": 254.5625,
+          "bottom": 3832.546875,
+          "left": 22
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Made for every little moment",
+        "size": "32px",
+        "weight": "600",
+        "line": "35.84px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 20,
+          "y": 3999.9375,
+          "width": 350,
+          "height": 71.65625,
+          "top": 3999.9375,
+          "right": 370,
+          "bottom": 4071.59375,
+          "left": 20
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "A considered edit of beautifully made pieces—ready for classroom confidence, weekend play and e",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 4085.59375,
+          "width": 350,
+          "height": 81.5625,
+          "top": 4085.59375,
+          "right": 370,
+          "bottom": 4167.15625,
+          "left": 20
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "School Uniforms",
+        "size": "22px",
+        "weight": "600",
+        "line": "26.4px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 43,
+          "y": 4510.171875,
+          "width": 304,
+          "height": 26.390625,
+          "top": 4510.171875,
+          "right": 347,
+          "bottom": 4536.5625,
+          "left": 43
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Smart, durable and comfortable pieces for confident school days.",
+        "size": "16px",
+        "weight": "400",
+        "line": "24.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 43,
+          "y": 4544.5625,
+          "width": 304,
+          "height": 49.59375,
+          "top": 4544.5625,
+          "right": 347,
+          "bottom": 4594.15625,
+          "left": 43
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Tops",
+        "size": "22px",
+        "weight": "600",
+        "line": "26.4px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 43,
+          "y": 4992.96875,
+          "width": 243.359375,
+          "height": 26.390625,
+          "top": 4992.96875,
+          "right": 286.359375,
+          "bottom": 5019.359375,
+          "left": 43
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Soft layers with thoughtful detail.",
+        "size": "16px",
+        "weight": "400",
+        "line": "24.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 43,
+          "y": 5027.359375,
+          "width": 243.359375,
+          "height": 24.796875,
+          "top": 5027.359375,
+          "right": 286.359375,
+          "bottom": 5052.15625,
+          "left": 43
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Bottoms",
+        "size": "22px",
+        "weight": "600",
+        "line": "26.4px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 43,
+          "y": 5451.96875,
+          "width": 304,
+          "height": 26.390625,
+          "top": 5451.96875,
+          "right": 347,
+          "bottom": 5478.359375,
+          "left": 43
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Easy movement, polished shape.",
+        "size": "16px",
+        "weight": "400",
+        "line": "24.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 43,
+          "y": 5486.359375,
+          "width": 304,
+          "height": 24.796875,
+          "top": 5486.359375,
+          "right": 347,
+          "bottom": 5511.15625,
+          "left": 43
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Sets",
+        "size": "22px",
+        "weight": "600",
+        "line": "26.4px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 43,
+          "y": 5909.96875,
+          "width": 304,
+          "height": 26.390625,
+          "top": 5909.96875,
+          "right": 347,
+          "bottom": 5936.359375,
+          "left": 43
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Effortless pairings, beautifully resolved.",
+        "size": "16px",
+        "weight": "400",
+        "line": "24.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 43,
+          "y": 5944.359375,
+          "width": 304,
+          "height": 24.796875,
+          "top": 5944.359375,
+          "right": 347,
+          "bottom": 5969.15625,
+          "left": 43
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Layered for daysfull of wonder.",
+        "size": "32px",
+        "weight": "600",
+        "line": "35.84px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 20,
+          "y": 6636.859375,
+          "width": 350,
+          "height": 71.65625,
+          "top": 6636.859375,
+          "right": 370,
+          "bottom": 6708.515625,
+          "left": 20
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Quietly luxurious layers made for crisp mornings, changing skies and the small adventures that ",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 6730.515625,
+          "width": 350,
+          "height": 81.5625,
+          "top": 6730.515625,
+          "right": 370,
+          "bottom": 6812.078125,
+          "left": 20
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Fresh little favourites",
+        "size": "32px",
+        "weight": "600",
+        "line": "35.84px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 20,
+          "y": 7313.125,
+          "width": 350,
+          "height": 35.828125,
+          "top": 7313.125,
+          "right": 370,
+          "bottom": 7348.953125,
+          "left": 20
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Newly arrived pieces, thoughtfully made for comfort, character and beautifully busy days.",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 7360.953125,
+          "width": 350,
+          "height": 54.375,
+          "top": 7360.953125,
+          "right": 370,
+          "bottom": 7415.328125,
+          "left": 20
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "product-wishlist",
+        "text": "",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 138,
+          "y": 7516.328125,
+          "width": 40,
+          "height": 40,
+          "top": 7516.328125,
+          "right": 178,
+          "bottom": 7556.328125,
+          "left": 138
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Organic Cotton Romper",
+        "size": "15px",
+        "weight": "600",
+        "line": "20.25px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 22,
+          "y": 7766.765625,
+          "width": 165,
+          "height": 20.25,
+          "top": 7766.765625,
+          "right": 187,
+          "bottom": 7787.015625,
+          "left": 22
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "product-wishlist",
+        "text": "",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 319,
+          "y": 7516.328125,
+          "width": 40,
+          "height": 40,
+          "top": 7516.328125,
+          "right": 359,
+          "bottom": 7556.328125,
+          "left": 319
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Soft Knit Cardigan",
+        "size": "15px",
+        "weight": "600",
+        "line": "20.25px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 203,
+          "y": 7766.765625,
+          "width": 165,
+          "height": 20.25,
+          "top": 7766.765625,
+          "right": 368,
+          "bottom": 7787.015625,
+          "left": 203
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "product-wishlist",
+        "text": "",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 138,
+          "y": 7876.515625,
+          "width": 40,
+          "height": 40,
+          "top": 7876.515625,
+          "right": 178,
+          "bottom": 7916.515625,
+          "left": 138
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Everyday Play Set",
+        "size": "15px",
+        "weight": "600",
+        "line": "20.25px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 22,
+          "y": 8126.953125,
+          "width": 165,
+          "height": 20.25,
+          "top": 8126.953125,
+          "right": 187,
+          "bottom": 8147.203125,
+          "left": 22
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "product-wishlist",
+        "text": "",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 319,
+          "y": 7876.515625,
+          "width": 40,
+          "height": 40,
+          "top": 7876.515625,
+          "right": 359,
+          "bottom": 7916.515625,
+          "left": 319
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Classic School Polo",
+        "size": "15px",
+        "weight": "600",
+        "line": "20.25px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 203,
+          "y": 8126.953125,
+          "width": 165,
+          "height": 20.25,
+          "top": 8126.953125,
+          "right": 368,
+          "bottom": 8147.203125,
+          "left": 203
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Smart fits for busy school days",
+        "size": "32px",
+        "weight": "600",
+        "line": "35.84px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 43,
+          "y": 8390.40625,
+          "width": 304,
+          "height": 71.65625,
+          "top": 8390.40625,
+          "right": 347,
+          "bottom": 8462.0625,
+          "left": 43
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Polished uniforms designed around real school days—with lasting comfort, dependable durability ",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 43,
+          "y": 8478.0625,
+          "width": 304,
+          "height": 135.9375,
+          "top": 8478.0625,
+          "right": 347,
+          "bottom": 8614,
+          "left": 43
+        }
+      },
+      {
+        "tag": "P",
+        "class": "uniform-feature-callout",
+        "text": "i\nNeed uniforms for a school or group? We can help.",
+        "size": "12px",
+        "weight": "400",
+        "line": "18px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 43,
+          "y": 8999,
+          "width": 304,
+          "height": 36,
+          "top": 8999,
+          "right": 347,
+          "bottom": 9035,
+          "left": 43
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Little gifts, beautifully put together",
+        "size": "32px",
+        "weight": "600",
+        "line": "35.84px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 20,
+          "y": 9456.703125,
+          "width": 350,
+          "height": 71.65625,
+          "top": 9456.703125,
+          "right": 370,
+          "bottom": 9528.359375,
+          "left": 20
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Thoughtful pieces for new arrivals, birthdays and meaningful milestones—carefully selected, sof",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 9548.359375,
+          "width": 350,
+          "height": 81.5625,
+          "top": 9548.359375,
+          "right": 370,
+          "bottom": 9629.921875,
+          "left": 20
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Newborn Gift Sets",
+        "size": "22px",
+        "weight": "600",
+        "line": "27.5px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 25,
+          "y": 10142.109375,
+          "width": 340,
+          "height": 27.5,
+          "top": 10142.109375,
+          "right": 365,
+          "bottom": 10169.609375,
+          "left": 25
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Organic first layers, comforting knits and keepsake details for their earliest days.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 25,
+          "y": 10181.609375,
+          "width": 340,
+          "height": 52.78125,
+          "top": 10181.609375,
+          "right": 365,
+          "bottom": 10234.390625,
+          "left": 25
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Birthday Favourites",
+        "size": "22px",
+        "weight": "600",
+        "line": "27.5px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 25,
+          "y": 10820.578125,
+          "width": 340,
+          "height": 27.5,
+          "top": 10820.578125,
+          "right": 365,
+          "bottom": 10848.078125,
+          "left": 25
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Celebration-ready outfits and considered little treasures chosen to delight.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 25,
+          "y": 10860.078125,
+          "width": 340,
+          "height": 52.78125,
+          "top": 10860.078125,
+          "right": 365,
+          "bottom": 10912.859375,
+          "left": 25
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Seasonal Gift Boxes",
+        "size": "22px",
+        "weight": "600",
+        "line": "27.5px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 25,
+          "y": 11499.046875,
+          "width": 340,
+          "height": 27.5,
+          "top": 11499.046875,
+          "right": 365,
+          "bottom": 11526.546875,
+          "left": 25
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Warm textures and timeless favourites composed for thoughtful seasonal giving.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 25,
+          "y": 11538.546875,
+          "width": 340,
+          "height": 52.78125,
+          "top": 11538.546875,
+          "right": 365,
+          "bottom": 11591.328125,
+          "left": 25
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Little styles,lovely prices",
+        "size": "32px",
+        "weight": "600",
+        "line": "35.84px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 43,
+          "y": 11960.90625,
+          "width": 304,
+          "height": 71.65625,
+          "top": 11960.90625,
+          "right": 347,
+          "bottom": 12032.5625,
+          "left": 43
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Considered seasonal pieces and beautifully made favourites, now at quieter prices for a limited",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 43,
+          "y": 12052.5625,
+          "width": 304,
+          "height": 81.5625,
+          "top": 12052.5625,
+          "right": 347,
+          "bottom": 12134.125,
+          "left": 43
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Up to 40% off\nselected favourites",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 186.796875,
+          "y": 12160.03125,
+          "width": 105.953125,
+          "height": 50.578125,
+          "top": 12160.03125,
+          "right": 292.75,
+          "bottom": 12210.609375,
+          "left": 186.796875
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Thoughtful details, everyday comfort",
+        "size": "32px",
+        "weight": "600",
+        "line": "35.84px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 20,
+          "y": 12742.90625,
+          "width": 350,
+          "height": 71.65625,
+          "top": 12742.90625,
+          "right": 370,
+          "bottom": 12814.5625,
+          "left": 20
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "From the first sketch to the final stitch, every piece is considered for softness, movement and",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 12830.5625,
+          "width": 350,
+          "height": 108.75,
+          "top": 12830.5625,
+          "right": 370,
+          "bottom": 12939.3125,
+          "left": 20
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Soft & Comfortable",
+        "size": "18px",
+        "weight": "600",
+        "line": "23.4px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 24,
+          "y": 13066.3125,
+          "width": 342,
+          "height": 23.390625,
+          "top": 13066.3125,
+          "right": 366,
+          "bottom": 13089.703125,
+          "left": 24
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Gentle textures chosen to feel beautiful against delicate skin, all day long.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 24,
+          "y": 13100.703125,
+          "width": 342,
+          "height": 52.78125,
+          "top": 13100.703125,
+          "right": 366,
+          "bottom": 13153.484375,
+          "left": 24
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Quality Fabrics",
+        "size": "18px",
+        "weight": "600",
+        "line": "23.4px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 24,
+          "y": 13276.484375,
+          "width": 342,
+          "height": 23.390625,
+          "top": 13276.484375,
+          "right": 366,
+          "bottom": 13299.875,
+          "left": 24
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Considered natural fibres and dependable blends selected for comfort and wear.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 24,
+          "y": 13310.875,
+          "width": 342,
+          "height": 52.78125,
+          "top": 13310.875,
+          "right": 366,
+          "bottom": 13363.65625,
+          "left": 24
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Easy Everyday Fits",
+        "size": "18px",
+        "weight": "600",
+        "line": "23.4px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 24,
+          "y": 13486.65625,
+          "width": 342,
+          "height": 23.390625,
+          "top": 13486.65625,
+          "right": 366,
+          "bottom": 13510.046875,
+          "left": 24
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Room to move, play and grow—shaped for real routines and little adventures.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 24,
+          "y": 13521.046875,
+          "width": 342,
+          "height": 52.78125,
+          "top": 13521.046875,
+          "right": 366,
+          "bottom": 13573.828125,
+          "left": 24
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Thoughtfully Made",
+        "size": "18px",
+        "weight": "600",
+        "line": "23.4px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 24,
+          "y": 13696.828125,
+          "width": 342,
+          "height": 23.390625,
+          "top": 13696.828125,
+          "right": 366,
+          "bottom": 13720.21875,
+          "left": 24
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Purposeful details, careful finishing and enduring style in every little piece.",
+        "size": "16px",
+        "weight": "400",
+        "line": "26.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 24,
+          "y": 13731.21875,
+          "width": 342,
+          "height": 52.78125,
+          "top": 13731.21875,
+          "right": 366,
+          "bottom": 13784,
+          "left": 24
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Worn, loved, and passed along",
+        "size": "32px",
+        "weight": "600",
+        "line": "35.84px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 20,
+          "y": 13966.703125,
+          "width": 350,
+          "height": 71.65625,
+          "top": 13966.703125,
+          "right": 370,
+          "bottom": 14038.359375,
+          "left": 20
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Kind words from families who choose thoughtful fabrics, comfortable fits and pieces made to bec",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 14058.359375,
+          "width": 350,
+          "height": 81.5625,
+          "top": 14058.359375,
+          "right": 370,
+          "bottom": 14139.921875,
+          "left": 20
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "Everyday style inspiration",
+        "size": "32px",
+        "weight": "600",
+        "line": "35.84px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 20,
+          "y": 15297.65625,
+          "width": 350,
+          "height": 71.65625,
+          "top": 15297.65625,
+          "right": 370,
+          "bottom": 15369.3125,
+          "left": 20
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Considered layers, easy silhouettes and beautifully wearable ideas for every little day.",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 15385.3125,
+          "width": 350,
+          "height": 54.375,
+          "top": 15385.3125,
+          "right": 370,
+          "bottom": 15439.6875,
+          "left": 20
+        }
+      },
+      {
+        "tag": "H2",
+        "class": "",
+        "text": "New drops, thoughtful gifts & seasonal favourites",
+        "size": "32px",
+        "weight": "600",
+        "line": "35.84px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 41,
+          "y": 16768.140625,
+          "width": 308,
+          "height": 107.484375,
+          "top": 16768.140625,
+          "right": 349,
+          "bottom": 16875.625,
+          "left": 41
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "A considered note when something beautiful arrives—new collections, gifting ideas and private s",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 41,
+          "y": 16895.625,
+          "width": 308,
+          "height": 81.5625,
+          "top": 16895.625,
+          "right": 349,
+          "bottom": 16977.1875,
+          "left": 41
+        }
+      },
+      {
+        "tag": "LABEL",
+        "class": "sr-only",
+        "text": "Email address",
+        "size": "16px",
+        "weight": "400",
+        "line": "27.2px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 40,
+          "y": 17004.1875,
+          "width": 1,
+          "height": 1,
+          "top": 17004.1875,
+          "right": 41,
+          "bottom": 17005.1875,
+          "left": 40
+        }
+      },
+      {
+        "tag": "BUTTON",
+        "class": "",
+        "text": "Subscribe",
+        "size": "12px",
+        "weight": "600",
+        "line": "20.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 52,
+          "y": 17070.1875,
+          "width": 286,
+          "height": 46,
+          "top": 17070.1875,
+          "right": 338,
+          "bottom": 17116.1875,
+          "left": 52
+        }
+      },
+      {
+        "tag": "P",
+        "class": "newsletter-note",
+        "text": "No clutter. Just the good stuff.",
+        "size": "12px",
+        "weight": "400",
+        "line": "18px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 44,
+          "y": 17138.1875,
+          "width": 302,
+          "height": 18,
+          "top": 17138.1875,
+          "right": 346,
+          "bottom": 17156.1875,
+          "left": 44
+        }
+      },
+      {
+        "tag": "P",
+        "class": "",
+        "text": "Considered clothing for childhood—soft on skin, gentle in spirit and made for the memories betw",
+        "size": "12px",
+        "weight": "400",
+        "line": "20.4px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 17442.15625,
+          "width": 350,
+          "height": 40.78125,
+          "top": 17442.15625,
+          "right": 370,
+          "bottom": 17482.9375,
+          "left": 20
+        }
+      },
+      {
+        "tag": "H3",
+        "class": "",
+        "text": "Shop",
+        "size": "18px",
+        "weight": "600",
+        "line": "23.4px",
+        "family": "\"Playfair Display\", Georgia, serif",
+        "rect": {
+          "x": 20,
+          "y": 17639.734375,
+          "width": 41.75,
+          "height": 23.390625,
+          "top": 17639.734375,
+          "right": 61.75,
+          "bottom": 17663.125,
+          "left": 20
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "Shop all",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 17683.125,
+          "width": 50.828125,
+          "height": 44,
+          "top": 17683.125,
+          "right": 70.828125,
+          "bottom": 17727.125,
+          "left": 20
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "New Arrivals",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 17727.125,
+          "width": 79.5625,
+          "height": 44,
+          "top": 17727.125,
+          "right": 99.5625,
+          "bottom": 17771.125,
+          "left": 20
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "Tops",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 17771.125,
+          "width": 30.703125,
+          "height": 44,
+          "top": 17771.125,
+          "right": 50.703125,
+          "bottom": 17815.125,
+          "left": 20
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "Bottoms",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 17815.125,
+          "width": 55.0625,
+          "height": 44,
+          "top": 17815.125,
+          "right": 75.0625,
+          "bottom": 17859.125,
+          "left": 20
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "School Uniforms",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 17859.125,
+          "width": 105.671875,
+          "height": 44,
+          "top": 17859.125,
+          "right": 125.671875,
+          "bottom": 17903.125,
+          "left": 20
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "Sets",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 17903.125,
+          "width": 28.359375,
+          "height": 44,
+          "top": 17903.125,
+          "right": 48.359375,
+          "bottom": 17947.125,
+          "left": 20
+        }
+      },
+      {
+        "tag": "A",
+        "class": "",
+        "text": "Sale",
+        "size": "14px",
+        "weight": "400",
+        "line": "23.8px",
+        "family": "\"DM Sans\", system-ui, sans-serif",
+        "rect": {
+          "x": 20,
+          "y": 17947.125,
+          "width": 26.8125,
+          "height": 44,
+          "top": 17947.125,
+          "right": 46.8125,
+          "bottom": 17991.125,
+          "left": 20
+        }
+      }
+    ],
+    "links": [
+      {
+        "text": "Maison Miette",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html"
+      },
+      {
+        "text": "About Us",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/about.html"
+      },
+      {
+        "text": "Shop",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html"
+      },
+      {
+        "text": "Size Guide",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/size-guide.html"
+      },
+      {
+        "text": "Gifting",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html"
+      },
+      {
+        "text": "Sale",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/sale.html"
+      },
+      {
+        "text": "Contact",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/contact.html"
+      },
+      {
+        "text": "Wishlist 0",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#wishlist"
+      },
+      {
+        "text": "Shop Collection",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html"
+      },
+      {
+        "text": "0",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#cart"
+      },
+      {
+        "text": "Shop New Arrivals",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#new-arrivals"
+      },
+      {
+        "text": "Explore Collections",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html"
+      },
+      {
+        "text": "01\n0–12 Months\n\nCloud-soft essentials for first days, tiny discoveries and everything between.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#baby"
+      },
+      {
+        "text": "02\n1–3 Years\n\nEasy layers and playful shapes made for curious, always-moving little ones.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#toddlers"
+      },
+      {
+        "text": "03\n4–7 Years\n\nPolished, comfortable favourites ready for school days and weekend stories.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#kids"
+      },
+      {
+        "text": "04\n8–12 Years\n\nConfident modern separates for growing personalities and independent style.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#preteen"
+      },
+      {
+        "text": "School Uniforms\n\nSmart, durable and comfortable pieces for confident school days.\n\nShop Category",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#uniforms"
+      },
+      {
+        "text": "Tops\n\nSoft layers with thoughtful detail.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#tops"
+      },
+      {
+        "text": "Bottoms\n\nEasy movement, polished shape.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#bottoms"
+      },
+      {
+        "text": "Sets\n\nEffortless pairings, beautifully resolved.\n\nExplore",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#sets"
+      },
+      {
+        "text": "Discover the Collection",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#autumn-winter"
+      },
+      {
+        "text": "View All",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#new-arrivals"
+      },
+      {
+        "text": "Add to cart",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#organic-romper"
+      },
+      {
+        "text": "Organic Cotton Romper",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#organic-romper"
+      },
+      {
+        "text": "Add to cart",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#knit-cardigan"
+      },
+      {
+        "text": "Soft Knit Cardigan",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#knit-cardigan"
+      },
+      {
+        "text": "Add to cart",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#play-set"
+      },
+      {
+        "text": "Everyday Play Set",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#play-set"
+      },
+      {
+        "text": "Add to cart",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#school-polo"
+      },
+      {
+        "text": "Classic School Polo",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#school-polo"
+      },
+      {
+        "text": "Shop Uniforms",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#uniforms"
+      },
+      {
+        "text": "Bulk Order Enquiry",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/contact.html#uniform-enquiry"
+      },
+      {
+        "text": "From ₹2,490",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html#newborn"
+      },
+      {
+        "text": "Explore Gifts",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html#newborn"
+      },
+      {
+        "text": "Birthday edit",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html#birthday"
+      },
+      {
+        "text": "Explore Gifts",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html#birthday"
+      },
+      {
+        "text": "Limited collection",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html#seasonal"
+      },
+      {
+        "text": "Explore Gifts",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html#seasonal"
+      },
+      {
+        "text": "Shop the Sale",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/sale.html"
+      },
+      {
+        "text": "View Look",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#dresses"
+      },
+      {
+        "text": "View Look",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#knitwear"
+      },
+      {
+        "text": "View Look",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#layers"
+      },
+      {
+        "text": "View Look",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#toddler"
+      },
+      {
+        "text": "View Look",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#girls"
+      },
+      {
+        "text": "View Look",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#uniforms"
+      },
+      {
+        "text": "Maison Miette",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html"
+      },
+      {
+        "text": "Shop all",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html"
+      },
+      {
+        "text": "New Arrivals",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#new-arrivals"
+      },
+      {
+        "text": "Tops",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#tops"
+      },
+      {
+        "text": "Bottoms",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#bottoms"
+      },
+      {
+        "text": "School Uniforms",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#uniforms"
+      },
+      {
+        "text": "Sets",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/shop.html#sets"
+      },
+      {
+        "text": "Sale",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/sale.html"
+      },
+      {
+        "text": "Home Page 1",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html"
+      },
+      {
+        "text": "Home Page 2",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage2.html"
+      },
+      {
+        "text": "About Us",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/about.html"
+      },
+      {
+        "text": "Size Guide",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/size-guide.html"
+      },
+      {
+        "text": "Gifting",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/gifting.html"
+      },
+      {
+        "text": "Contact",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/contact.html"
+      },
+      {
+        "text": "Shipping & Delivery",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#shipping"
+      },
+      {
+        "text": "Returns",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#returns"
+      },
+      {
+        "text": "Size Help",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/size-guide.html"
+      },
+      {
+        "text": "Bulk Orders",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/contact.html#bulk-orders"
+      },
+      {
+        "text": "School Uniform Enquiry",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/contact.html#uniform-enquiry"
+      },
+      {
+        "text": "FAQs",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#faqs"
+      },
+      {
+        "text": "hello@maisonmiette.com",
+        "url": "mailto:hello@maisonmiette.com"
+      },
+      {
+        "text": "+91 80001 23456",
+        "url": "tel:+918000123456"
+      },
+      {
+        "text": "Privacy Policy",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#privacy"
+      },
+      {
+        "text": "Terms & Conditions",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#terms"
+      },
+      {
+        "text": "Cookie Policy",
+        "url": "https://teknritsolutions.github.io/Baby-kids-clothing-store/pages/Homepage1.html#cookies"
+      }
+    ]
+  }
+}

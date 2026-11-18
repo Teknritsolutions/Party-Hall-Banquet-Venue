@@ -1,0 +1,20 @@
+{
+  "checks": [
+    "Reserved date is rejected",
+    "Hall capacity limit enforced",
+    "Past event dates rejected",
+    "Client embeds complete booking workflow",
+    "Hall change does not duplicate calendar navigation",
+    "Edited package price reaches booking options",
+    "Edited package price reaches estimates",
+    "Edited decoration prices reach client estimates",
+    "Settings save theme and direction",
+    "Forgot-password feedback is explicit about no email",
+    "Journal article links select distinct content",
+    "Comments persist locally",
+    "Newsletter stores a request without sending",
+    "Chart tooltip system configured",
+    "reset restores package defaults"
+  ],
+  "total": 15
+}

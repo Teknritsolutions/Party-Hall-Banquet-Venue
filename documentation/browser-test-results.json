@@ -1,0 +1,30 @@
+{
+  "pages": 45,
+  "widths": [
+    320,
+    360,
+    375,
+    390,
+    420,
+    480,
+    640,
+    768,
+    820,
+    1024,
+    1280,
+    1440,
+    1920
+  ],
+  "themes": [
+    "light",
+    "dark"
+  ],
+  "directions": [
+    "ltr",
+    "rtl"
+  ],
+  "checks": 2340,
+  "failures": [],
+  "pageErrors": [],
+  "resources": []
+}

@@ -1,0 +1,192 @@
+{
+  "pages": 46,
+  "linksChecked": 1992,
+  "photoPlacements": 54,
+  "uniquePhotos": 54,
+  "results": [
+    {
+      "file": "dashboard/admin/bookings.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/admin/calendar.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/admin/catering.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/admin/clients.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/admin/decorations.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/admin/halls.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/admin/index.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/admin/messages.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/admin/notifications.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/admin/packages.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/admin/payments.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/admin/reports.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/admin/settings.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/client/availability.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/client/bookings.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/client/catering.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/client/decorations.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/client/index.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/client/invoices.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/client/new-booking.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/client/notifications.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/client/payments.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/client/profile.html",
+      "sections": 0
+    },
+    {
+      "file": "dashboard/client/settings.html",
+      "sections": 0
+    },
+    {
+      "file": "documentation/legal.html",
+      "sections": 3
+    },
+    {
+      "file": "index-2.html",
+      "sections": 10
+    },
+    {
+      "file": "index.html",
+      "sections": 10
+    },
+    {
+      "file": "pages/404.html",
+      "sections": 0
+    },
+    {
+      "file": "pages/about.html",
+      "sections": 6
+    },
+    {
+      "file": "pages/blog-details.html",
+      "sections": 5
+    },
+    {
+      "file": "pages/blog.html",
+      "sections": 5
+    },
+    {
+      "file": "pages/booking-confirmation.html",
+      "sections": 5
+    },
+    {
+      "file": "pages/booking.html",
+      "sections": 6
+    },
+    {
+      "file": "pages/coming-soon.html",
+      "sections": 0
+    },
+    {
+      "file": "pages/contact.html",
+      "sections": 6
+    },
+    {
+      "file": "pages/forgot-password.html",
+      "sections": 0
+    },
+    {
+      "file": "pages/gallery.html",
+      "sections": 5
+    },
+    {
+      "file": "pages/hall-details.html",
+      "sections": 6
+    },
+    {
+      "file": "pages/halls.html",
+      "sections": 6
+    },
+    {
+      "file": "pages/login.html",
+      "sections": 0
+    },
+    {
+      "file": "pages/maintenance.html",
+      "sections": 0
+    },
+    {
+      "file": "pages/packages.html",
+      "sections": 6
+    },
+    {
+      "file": "pages/pricing.html",
+      "sections": 5
+    },
+    {
+      "file": "pages/register.html",
+      "sections": 0
+    },
+    {
+      "file": "pages/service-details.html",
+      "sections": 6
+    },
+    {
+      "file": "pages/services.html",
+      "sections": 6
+    }
+  ]
+}

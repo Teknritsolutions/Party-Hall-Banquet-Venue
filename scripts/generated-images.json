@@ -1,0 +1,326 @@
+[
+  {
+    "name": "home-01-hero",
+    "prompt": "Palatial ivory ballroom with chandeliers and round reception tables, warm afternoon editorial architectural photography.",
+    "original": "exec-ee76b6a2-66db-4881-b2ea-40dd6c658489.png",
+    "file": "assets/images/home-01-hero.webp"
+  },
+  {
+    "name": "home-about",
+    "prompt": "sunlit historic banquet venue entrance with ivory stone archway and brass doors",
+    "original": "exec-f09d2797-54a1-492d-99be-811fde7bf9b3.png",
+    "file": "assets/images/home-about.webp"
+  },
+  {
+    "name": "home-royal",
+    "prompt": "palatial ivory ballroom with chandeliers and round reception tables",
+    "original": "exec-2d5ed681-90cd-4dcb-81fb-77d0631755b0.png",
+    "file": "assets/images/home-royal.webp"
+  },
+  {
+    "name": "home-crystal",
+    "prompt": "intimate art deco reception hall with crystal pendants and blush furnishings",
+    "original": "exec-35c446bb-2273-4824-a624-2d02d5ab5be8.png",
+    "file": "assets/images/home-crystal.webp"
+  },
+  {
+    "name": "home-imperial",
+    "prompt": "contemporary long banquet room with rectangular dinner tables and golden wall panels",
+    "original": "exec-342e4058-2295-423d-8b33-148573d5ec86.png",
+    "file": "assets/images/home-imperial.webp"
+  },
+  {
+    "name": "home-catering",
+    "prompt": "fine dining plated banquet cuisine on cream ceramic plates with golden cutlery",
+    "original": "exec-5a55a0c7-bd9b-4df9-86ea-299ccdb9cd46.png",
+    "file": "assets/images/home-catering.webp"
+  },
+  {
+    "name": "home-gallery-wedding",
+    "prompt": "floral wedding reception stage with cream drapery and candlelight",
+    "original": "exec-8fb546c7-9576-49be-853f-83044b5b0309.png",
+    "file": "assets/images/home-gallery-wedding.webp"
+  },
+  {
+    "name": "home-gallery-dinner",
+    "prompt": "intimate candlelit anniversary table with burgundy roses",
+    "original": "exec-646522cf-d41f-42ab-a986-a4b854a75311.png",
+    "file": "assets/images/home-gallery-dinner.webp"
+  },
+  {
+    "name": "home-gallery-corporate",
+    "prompt": "elegant corporate awards banquet with long dining tables",
+    "original": "exec-3d49c14d-fb84-471d-af5a-8a5f1186fab7.png",
+    "file": "assets/images/home-gallery-corporate.webp"
+  },
+  {
+    "name": "home2-hero",
+    "prompt": "dramatic wide luxurious reception ballroom at dusk with golden chandeliers",
+    "original": "exec-fc0440a7-c291-4caf-989f-5009f652937f.png",
+    "file": "assets/images/home2-hero.webp"
+  },
+  {
+    "name": "home2-intro",
+    "prompt": "elegant architectural staircase and foyer inside an ivory stone venue",
+    "original": "exec-a64ca7d9-a70e-4344-8969-34f374b5a7b8.png",
+    "file": "assets/images/home2-intro.webp"
+  },
+  {
+    "name": "home2-ballroom",
+    "prompt": "expansive ballroom overlooking a cream stone courtyard",
+    "original": "exec-4e76fcc3-7794-4f99-859c-157d9d514569.png",
+    "file": "assets/images/home2-ballroom.webp"
+  },
+  {
+    "name": "home2-food",
+    "prompt": "elegant banquet dessert station with petite pastries and porcelain platters",
+    "original": "exec-bc9f1a15-8e27-4443-9c58-81f721ce5c45.png",
+    "file": "assets/images/home2-food.webp"
+  },
+  {
+    "name": "home2-decor-classic",
+    "prompt": "white rose floral arch at a wedding reception",
+    "original": "exec-6014dd6e-0f03-46fd-af7c-367f7005501f.png",
+    "file": "assets/images/home2-decor-classic.webp"
+  },
+  {
+    "name": "home2-decor-modern",
+    "prompt": "modern sculptural blush and gold table centerpieces",
+    "original": "exec-cf1992ec-1a84-41a6-9d33-dca9f923ac72.png",
+    "file": "assets/images/home2-decor-modern.webp"
+  },
+  {
+    "name": "home2-visit",
+    "prompt": "refined venue lounge with ivory sofas and warm brass lamps",
+    "original": "exec-1dc33b7c-cfc2-4a79-b636-679fce400b94.png",
+    "file": "assets/images/home2-visit.webp"
+  },
+  {
+    "name": "about-story",
+    "prompt": "historic grand event venue exterior with carved ivory stone facade",
+    "original": "exec-a9540225-23bc-424b-b618-41517324bf68.png",
+    "file": "assets/images/about-story.webp"
+  },
+  {
+    "name": "about-experience",
+    "prompt": "luxury bridal dressing suite with cream furnishings and mirrors",
+    "original": "exec-eb24fce0-3597-449c-9386-a67eb8ca2fcf.png",
+    "file": "assets/images/about-experience.webp"
+  },
+  {
+    "name": "team-director",
+    "prompt": "professional portrait of smiling female venue director in burgundy suit, neutral interior",
+    "original": "exec-ba9367ae-0821-4802-991a-c04be7fe52a6.png",
+    "file": "assets/images/team-director.webp"
+  },
+  {
+    "name": "team-chef",
+    "prompt": "professional portrait of executive banquet chef in white chef jacket, warm kitchen background",
+    "original": "exec-23f51fe0-acf8-4970-8d16-d5a702d12ce5.png",
+    "file": "assets/images/team-chef.webp"
+  },
+  {
+    "name": "team-planner",
+    "prompt": "professional portrait of male event planner in charcoal suit, neutral venue background",
+    "original": "exec-961ece30-a929-4ba9-9941-66dcf82c9cf8.png",
+    "file": "assets/images/team-planner.webp"
+  },
+  {
+    "name": "hall-royal",
+    "prompt": "royal reception ballroom with grand ceiling and candlelit banquet tables",
+    "original": "exec-3185d7a3-88bf-496d-8be6-c80f4cc9d10e.png",
+    "file": "assets/images/hall-royal.webp"
+  },
+  {
+    "name": "hall-crystal",
+    "prompt": "crystal ballroom with curved windows and tall white floral arrangements",
+    "original": "exec-726bc373-edf1-4202-8d37-c124022b9f9c.png",
+    "file": "assets/images/hall-crystal.webp"
+  },
+  {
+    "name": "hall-imperial",
+    "prompt": "imperial banquet hall with burgundy upholstered chairs and gold chandeliers",
+    "original": "exec-e69b30d8-5090-411f-89ea-3b0f0ae5f6d5.png",
+    "file": "assets/images/hall-imperial.webp"
+  },
+  {
+    "name": "hall-heritage",
+    "prompt": "intimate heritage banquet suite with walnut panelling and ivory tablecloths",
+    "original": "exec-55e95b97-2c05-4726-af2c-a91e1362c015.png",
+    "file": "assets/images/hall-heritage.webp"
+  },
+  {
+    "name": "hall-pavilion",
+    "prompt": "covered ivory garden pavilion with blush flowers and cream stone courtyard, no greenery",
+    "original": "exec-084b5afb-9b63-49fb-ac30-232902fff5e3.png",
+    "file": "assets/images/hall-pavilion.webp"
+  },
+  {
+    "name": "hall-private",
+    "prompt": "small private dining hall for 40 guests with round dining table",
+    "original": "exec-cf17d0e2-a943-47b0-8ac0-88c6621d7935.png",
+    "file": "assets/images/hall-private.webp"
+  },
+  {
+    "name": "detail-hero",
+    "prompt": "wide luminous ballroom with impressive crystal chandelier",
+    "original": "exec-94621fda-309a-4576-8b51-f1b17f43271f.png",
+    "file": "assets/images/detail-hero.webp"
+  },
+  {
+    "name": "detail-gallery1",
+    "prompt": "close detail of elegant ballroom table setting with gold chargers",
+    "original": "exec-1bae6800-50ef-4453-a5cf-3bcae8e60b96.png",
+    "file": "assets/images/detail-gallery1.webp"
+  },
+  {
+    "name": "detail-gallery2",
+    "prompt": "ballroom reception stage in warm ivory and burgundy floral tones",
+    "original": "exec-e4f8db94-36a3-4f70-bfb0-3cc48d0e0605.png",
+    "file": "assets/images/detail-gallery2.webp"
+  },
+  {
+    "name": "packages-food",
+    "prompt": "beautiful gourmet banquet buffet with porcelain dishes and copper serving pans",
+    "original": "exec-18481b82-3ce3-4eb5-8e70-7c145b14a540.png",
+    "file": "assets/images/packages-food.webp"
+  },
+  {
+    "name": "packages-decor",
+    "prompt": "romantic wedding candles and blush floral centerpieces",
+    "original": "exec-ddb257ed-a156-4f23-9b48-80c0c346ede6.png",
+    "file": "assets/images/packages-decor.webp"
+  },
+  {
+    "name": "services-wedding",
+    "prompt": "wedding reception chairs facing an ivory floral ceremony arch",
+    "original": "exec-d76fe642-823d-403f-9e43-55cd50925b2e.png",
+    "file": "assets/images/services-wedding.webp"
+  },
+  {
+    "name": "services-catering",
+    "prompt": "chef hands plating gourmet banquet dishes in a professional kitchen",
+    "original": "exec-e8b7fd30-5ccb-4d2b-bcab-93c82b235e21.png",
+    "file": "assets/images/services-catering.webp"
+  },
+  {
+    "name": "services-decor",
+    "prompt": "decorator hands arranging cream roses and burgundy flowers on a banquet table",
+    "original": "exec-26ce53c5-6735-43eb-b208-9690f8fba7e2.png",
+    "file": "assets/images/services-decor.webp"
+  },
+  {
+    "name": "service-intro",
+    "prompt": "event planning flatlay with cream linen swatches, burgundy ribbons and seating plan",
+    "original": "exec-5742e469-9a73-4448-b7a7-cf76c2cefe81.png",
+    "file": "assets/images/service-intro.webp"
+  },
+  {
+    "name": "gallery-wedding",
+    "prompt": "grand wedding reception dining room with blush and ivory flowers",
+    "original": "exec-11fe1764-fc3e-4bcb-b38f-373c4efc967b.png",
+    "file": "assets/images/gallery-wedding.webp"
+  },
+  {
+    "name": "gallery-engagement",
+    "prompt": "engagement celebration stage with gold geometric backdrop",
+    "original": "exec-b1dc1764-224b-44d3-8c2b-c05537431b9d.png",
+    "file": "assets/images/gallery-engagement.webp"
+  },
+  {
+    "name": "gallery-birthday",
+    "prompt": "elegant adult birthday setup with champagne balloons and cream cake",
+    "original": "exec-9495b0ed-7886-4f1a-85cf-1e03e2d2acf4.png",
+    "file": "assets/images/gallery-birthday.webp"
+  },
+  {
+    "name": "gallery-corporate",
+    "prompt": "formal corporate dinner and awards podium in a boutique banquet venue",
+    "original": "exec-6a8ba285-3146-4a71-a2c6-d8dd38529900.png",
+    "file": "assets/images/gallery-corporate.webp"
+  },
+  {
+    "name": "gallery-decorations",
+    "prompt": "close up of champagne candles and hanging floral wedding installation",
+    "original": "exec-68476e5f-497b-4a54-bd6e-2d7fbe3b70e9.png",
+    "file": "assets/images/gallery-decorations.webp"
+  },
+  {
+    "name": "gallery-catering",
+    "prompt": "beautifully arranged tiny banquet desserts on a marble buffet",
+    "original": "exec-d4a36337-05d6-455f-9d4b-1450780b6fae.png",
+    "file": "assets/images/gallery-catering.webp"
+  },
+  {
+    "name": "gallery-feature",
+    "prompt": "anniversary dinner with candlelight and ivory roses under a chandelier",
+    "original": "exec-3fb5c6ab-6542-4d19-96d7-2e2b5e618bb6.png",
+    "file": "assets/images/gallery-feature.webp"
+  },
+  {
+    "name": "blog-feature",
+    "prompt": "overhead view of elegant banquet seating plan with gold pen and linen samples",
+    "original": "exec-cacebed1-f434-421a-a431-f28fc3a8b0f0.png",
+    "file": "assets/images/blog-feature.webp"
+  },
+  {
+    "name": "blog-tables",
+    "prompt": "long elegant wedding reception table styled with cream napkins",
+    "original": "exec-02379972-fa65-43b3-87f9-b5fd01efea06.png",
+    "file": "assets/images/blog-tables.webp"
+  },
+  {
+    "name": "blog-food",
+    "prompt": "fine dining tasting menu for a luxury wedding reception",
+    "original": "exec-f7fc61e4-464b-43c2-834e-edee17f9a4f4.png",
+    "file": "assets/images/blog-food.webp"
+  },
+  {
+    "name": "blog-lights",
+    "prompt": "warm pendant lights and candles above a reception table",
+    "original": "exec-d75379d8-e5e1-4d64-9422-9d1301077c8c.png",
+    "file": "assets/images/blog-lights.webp"
+  },
+  {
+    "name": "article-main",
+    "prompt": "venue planner inspecting elegant reception tables before a celebration",
+    "original": "exec-edd804d5-9da5-4a0b-b440-0c32c1d1f214.png",
+    "file": "assets/images/article-main.webp"
+  },
+  {
+    "name": "article-related1",
+    "prompt": "elegant plated dessert served with burgundy fruit sauce",
+    "original": "exec-eb68c398-6735-4469-ae9c-acf0eb8db0bd.png",
+    "file": "assets/images/article-related1.webp"
+  },
+  {
+    "name": "article-related2",
+    "prompt": "romantic floral wedding entrance in ivory and gold",
+    "original": "exec-215811f5-d9f9-4cf5-b7be-e1965e0212d3.png",
+    "file": "assets/images/article-related2.webp"
+  },
+  {
+    "name": "login",
+    "prompt": "tall architectural photo of grand banquet venue chandelier and arched doorway",
+    "original": "exec-8713aa8e-1457-4cdf-84b5-efbd67c6f00c.png",
+    "file": "assets/images/login.webp"
+  },
+  {
+    "name": "register",
+    "prompt": "tall photo of luxury wedding dining arrangements in ivory and champagne",
+    "original": "exec-72eeb504-8363-41f8-9b9f-8782e7e0b716.png",
+    "file": "assets/images/register.webp"
+  },
+  {
+    "name": "forgot",
+    "prompt": "quiet luxury banquet lounge with warm lamp light",
+    "original": "exec-c6155cb4-aa87-40fa-931d-f5a8b973c614.png",
+    "file": "assets/images/forgot.webp"
+  },
+  {
+    "name": "coming",
+    "prompt": "grand ornate brass venue entrance doors lit warmly at dusk",
+    "original": "exec-ecdb30ef-1d70-49e3-a982-73a3725cd0e3.png",
+    "file": "assets/images/coming.webp"
+  }
+]

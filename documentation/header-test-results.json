@@ -1,0 +1,35 @@
+{
+  "pages": 16,
+  "widths": [
+    320,
+    360,
+    375,
+    390,
+    420,
+    480,
+    640,
+    768,
+    820,
+    1024,
+    1280,
+    1440,
+    1920
+  ],
+  "checks": 832,
+  "failures": [],
+  "errors": [],
+  "interactions": [
+    "Dashboard dropdown links",
+    "Client login navigation",
+    "Keyboard dropdown close",
+    "Mobile Dashboard menu",
+    "Mobile Escape closes drawer and scroll lock",
+    "Mobile close button"
+  ],
+  "screenshots": [
+    "header-updated-desktop.png",
+    "header-updated-dashboard-menu.png",
+    "header-updated-mobile-menu.png",
+    "header-updated-mobile.png"
+  ]
+}

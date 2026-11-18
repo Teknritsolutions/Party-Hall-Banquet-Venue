@@ -1,0 +1,24 @@
+{
+  "name": "the-grand-venue",
+  "version": "1.0.7",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.cjs",
+    "start": "node scripts/serve.cjs",
+    "test": "node tests/site.cjs",
+    "test:responsive": "node tests/responsive.cjs",
+    "test:workflows": "node tests/workflows.cjs",
+    "format": "prettier --write index*.html pages/*.html dashboard/**/*.html assets/css/*.css assets/js/*.js scripts/*.cjs tests/*.cjs",
+    "test:accessibility": "node tests/accessibility.cjs",
+    "test:edges": "node tests/edges.cjs",
+    "test:header": "node tests/header-refinement.cjs",
+    "test:typography": "node tests/typography.cjs",
+    "test:brand-controls": "node tests/brand-controls.cjs",
+    "test:spacing": "node tests/spacing.cjs"
+  },
+  "devDependencies": {
+    "playwright": "1.61.1",
+    "prettier": "3.6.2",
+    "@axe-core/playwright": "4.14.0"
+  }
+}

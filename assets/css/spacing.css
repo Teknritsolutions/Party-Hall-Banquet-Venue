@@ -1,0 +1,142 @@
+﻿/* Shared vertical rhythm for all public pages and dashboard workspaces. */
+:root {
+  --section-space: 80px;
+  --section-heading-space: 40px;
+  --content-space: 40px;
+  --workspace-space: 24px;
+}
+.public-layout main > section,
+.public-layout main > form > section {
+  padding-block: var(--section-space);
+  margin-block: 0;
+}
+.public-layout .hero-grid {
+  padding-block-end: 0;
+}
+.public-layout .hero-copy {
+  padding-block: 0;
+}
+.public-layout .section > .container > :last-child {
+  margin-block-end: 0;
+}
+.public-layout .section-heading {
+  margin-block-end: var(--section-heading-space);
+}
+.public-layout .section-action {
+  margin-block-start: var(--content-space);
+}
+.public-layout .faq-list + .cta-panel {
+  margin-block-start: var(--content-space);
+}
+.public-layout .stats {
+  margin-block-start: var(--content-space);
+}
+.public-layout .milestones {
+  margin-block-start: var(--content-space);
+}
+.public-layout .page-intro .breadcrumb {
+  margin-block-start: 24px;
+}
+/* Consistent workspace gaps avoid stacking a chart margin on top of its grid gap. */
+.dashboard-panel,
+.chart-panel,
+.kpi-grid,
+.event-banner {
+  margin-block-end: var(--workspace-space);
+}
+.chart-grid,
+.dashboard-grid {
+  gap: var(--workspace-space);
+  margin-block-end: var(--workspace-space);
+}
+.chart-grid > .chart-panel,
+.dashboard-grid > .dashboard-panel {
+  margin-block-end: 0;
+}
+.kpi-grid {
+  gap: var(--workspace-space);
+}
+.dashboard-content > :last-child,
+#dashboard-view > :last-child {
+  margin-block-end: 0;
+}
+/* Balanced circular badge: room for both labels, with an inset gold keyline. */
+.hero-seal {
+  width: 132px;
+  height: 132px;
+  padding: 12px;
+  border: 6px solid var(--color-surface);
+  border-radius: 50%;
+  inset-inline-start: -48px;
+  bottom: 72px;
+  gap: 8px;
+  color: #e0c395;
+  box-shadow: 0 8px 24px #641c3514;
+}
+.hero-seal::before {
+  content: "";
+  position: absolute;
+  inset: 6px;
+  border: 1px solid #c4a06a80;
+  border-radius: 50%;
+  pointer-events: none;
+}
+.hero-seal span {
+  position: relative;
+  font: 500 10px/1.4 var(--font-body);
+  letter-spacing: 1px;
+  white-space: nowrap;
+  margin: 0;
+}
+.hero-seal svg {
+  position: relative;
+  width: 24px;
+  height: 24px;
+  stroke-width: 1.4;
+  flex-shrink: 0;
+}
+@media (max-width: 1023px) {
+  :root {
+    --section-space: 64px;
+    --section-heading-space: 32px;
+    --content-space: 32px;
+  }
+  .hero-seal {
+    width: 120px;
+    height: 120px;
+    padding: 10px;
+    inset-inline-start: -32px;
+    bottom: 64px;
+  }
+}
+@media (max-width: 767px) {
+  :root {
+    --section-space: 48px;
+    --section-heading-space: 32px;
+    --content-space: 24px;
+  }
+  .hero-seal {
+    width: 120px;
+    height: 120px;
+    padding: 8px;
+    inset-inline-start: -20px;
+    bottom: 64px;
+    gap: 7px;
+  }
+  .hero-seal::before {
+    inset: 5px;
+  }
+}
+@media print {
+  :root {
+    --section-space: 24px;
+    --section-heading-space: 16px;
+    --content-space: 16px;
+    --workspace-space: 16px;
+  }
+}
+
+.dashboard-layout .demo-notice,
+.dashboard-heading {
+  margin-block-end: var(--workspace-space);
+}

@@ -1,0 +1,11 @@
+{
+  "publicPages": 16,
+  "checks": 308,
+  "spacing": {
+    "desktop": 80,
+    "tablet": 64,
+    "mobile": 48,
+    "workspace": 24
+  },
+  "failures": []
+}

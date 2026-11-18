@@ -1,0 +1,760 @@
+{
+  "pages": [
+    {
+      "file": "Homepage1.html",
+      "sizes": [
+        {
+          "tag": "BUTTON",
+          "cls": "nav-link dropdown-trigger is-active",
+          "size": "15px",
+          "line": "25.5px",
+          "weight": "500",
+          "text": "Home"
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "icon-button desktop-action",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "icon-button direction-button desktop-action",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "600",
+          "text": "RTL"
+        },
+        {
+          "tag": "A",
+          "cls": "header-cta desktop-action",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "600",
+          "text": "Shop Collection"
+        },
+        {
+          "tag": "H1",
+          "cls": "",
+          "size": "74.16px",
+          "line": "76.3848px",
+          "weight": "600",
+          "text": "Little wardrobes, beautifully lived in."
+        },
+        {
+          "tag": "P",
+          "cls": "hero-intro",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": "Elevated everyday pieces crafted for comfort, movement and all th"
+        },
+        {
+          "tag": "SMALL",
+          "cls": "",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "400",
+          "text": "Spring / Summer 2026"
+        },
+        {
+          "tag": "H2",
+          "cls": "",
+          "size": "50px",
+          "line": "56px",
+          "weight": "600",
+          "text": "Shop by age"
+        },
+        {
+          "tag": "P",
+          "cls": "",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": "From first cuddles to bigger adventures, discover thoughtfully de"
+        },
+        {
+          "tag": "H3",
+          "cls": "",
+          "size": "20px",
+          "line": "26px",
+          "weight": "600",
+          "text": "0–12 Months"
+        },
+        {
+          "tag": "H3",
+          "cls": "",
+          "size": "36px",
+          "line": "43.2px",
+          "weight": "600",
+          "text": "School Uniforms"
+        },
+        {
+          "tag": "P",
+          "cls": "",
+          "size": "12px",
+          "line": "18.6px",
+          "weight": "400",
+          "text": "Smart, durable and comfortable pieces for confident school days."
+        },
+        {
+          "tag": "H3",
+          "cls": "",
+          "size": "24px",
+          "line": "28.8px",
+          "weight": "600",
+          "text": "Tops"
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "product-wishlist",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": ""
+        },
+        {
+          "tag": "H3",
+          "cls": "",
+          "size": "16px",
+          "line": "21.6px",
+          "weight": "600",
+          "text": "Organic Cotton Romper"
+        },
+        {
+          "tag": "P",
+          "cls": "uniform-feature-callout",
+          "size": "12px",
+          "line": "18px",
+          "weight": "400",
+          "text": "iNeed uniforms for a school or group? We can help."
+        },
+        {
+          "tag": "LABEL",
+          "cls": "sr-only",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": "Email address"
+        },
+        {
+          "tag": "INPUT",
+          "cls": "",
+          "size": "14px",
+          "line": "normal",
+          "weight": "500",
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "600",
+          "text": "Subscribe"
+        },
+        {
+          "tag": "P",
+          "cls": "newsletter-note",
+          "size": "12px",
+          "line": "18px",
+          "weight": "400",
+          "text": "No clutter. Just the good stuff."
+        },
+        {
+          "tag": "A",
+          "cls": "brand footer-logo",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": "Maison Miette"
+        },
+        {
+          "tag": "A",
+          "cls": "",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": ""
+        },
+        {
+          "tag": "A",
+          "cls": "",
+          "size": "14px",
+          "line": "23.8px",
+          "weight": "400",
+          "text": "Shop all"
+        }
+      ]
+    },
+    {
+      "file": "about.html",
+      "sizes": [
+        {
+          "tag": "BUTTON",
+          "cls": "nav-link dropdown-trigger",
+          "size": "15px",
+          "line": "25.5px",
+          "weight": "500",
+          "text": "Home"
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "icon-button desktop-action",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "icon-button direction-button desktop-action",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "600",
+          "text": "RTL"
+        },
+        {
+          "tag": "A",
+          "cls": "header-cta desktop-action",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "600",
+          "text": "Shop Collection"
+        },
+        {
+          "tag": "SMALL",
+          "cls": "",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "400",
+          "text": "Maison Miette"
+        },
+        {
+          "tag": "H1",
+          "cls": "",
+          "size": "74.16px",
+          "line": "76.3848px",
+          "weight": "600",
+          "text": "Thoughtfully made for the wonder between milestones."
+        },
+        {
+          "tag": "P",
+          "cls": "",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": "Maison Miette creates considered, comfortable clothing for little"
+        },
+        {
+          "tag": "P",
+          "cls": "about-signature",
+          "size": "12px",
+          "line": "normal",
+          "weight": "600",
+          "text": "Little lives, beautifully dressed"
+        },
+        {
+          "tag": "H2",
+          "cls": "",
+          "size": "50px",
+          "line": "56px",
+          "weight": "600",
+          "text": "Clothes should understand childhood."
+        },
+        {
+          "tag": "P",
+          "cls": "origin-story-lead",
+          "size": "32px",
+          "line": "49.6px",
+          "weight": "600",
+          "text": "Maison Miette began with a feeling familiar to many parents: that"
+        },
+        {
+          "tag": "P",
+          "cls": "",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "600",
+          "text": "Worn. Loved. Remembered."
+        },
+        {
+          "tag": "H3",
+          "cls": "",
+          "size": "24px",
+          "line": "30px",
+          "weight": "600",
+          "text": "Give childhood room to move."
+        },
+        {
+          "tag": "P",
+          "cls": "purpose-note",
+          "size": "12px",
+          "line": "19.8px",
+          "weight": "600",
+          "text": "Comfort-led designfor everyday wonder."
+        },
+        {
+          "tag": "P",
+          "cls": "team-role",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "700",
+          "text": "Creative Director"
+        },
+        {
+          "tag": "P",
+          "cls": "team-belief",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "500",
+          "text": "“Beauty should make everyday life feel easier.”"
+        },
+        {
+          "tag": "A",
+          "cls": "brand footer-logo",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": "Maison Miette"
+        },
+        {
+          "tag": "A",
+          "cls": "",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": ""
+        },
+        {
+          "tag": "H3",
+          "cls": "",
+          "size": "20px",
+          "line": "26px",
+          "weight": "600",
+          "text": "Shop"
+        },
+        {
+          "tag": "A",
+          "cls": "",
+          "size": "14px",
+          "line": "23.8px",
+          "weight": "400",
+          "text": "Shop all"
+        }
+      ]
+    },
+    {
+      "file": "shop.html",
+      "sizes": [
+        {
+          "tag": "BUTTON",
+          "cls": "nav-link dropdown-trigger",
+          "size": "15px",
+          "line": "25.5px",
+          "weight": "500",
+          "text": "Home"
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "icon-button desktop-action",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "icon-button direction-button desktop-action",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "600",
+          "text": "RTL"
+        },
+        {
+          "tag": "A",
+          "cls": "header-cta desktop-action",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "600",
+          "text": "Shop Collection"
+        },
+        {
+          "tag": "H1",
+          "cls": "",
+          "size": "74.16px",
+          "line": "76.3848px",
+          "weight": "600",
+          "text": "Clothing made for little lives in motion"
+        },
+        {
+          "tag": "P",
+          "cls": "",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": "Considered layers, easy silhouettes and beautifully soft pieces d"
+        },
+        {
+          "tag": "SMALL",
+          "cls": "",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "600",
+          "text": "Soft cotton"
+        },
+        {
+          "tag": "P",
+          "cls": "",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "700",
+          "text": "Browse by age or category"
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "is-active",
+          "size": "12px",
+          "line": "normal",
+          "weight": "600",
+          "text": "All"
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "",
+          "size": "12px",
+          "line": "normal",
+          "weight": "600",
+          "text": "Baby"
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "catalogue-filter-trigger",
+          "size": "12px",
+          "line": "normal",
+          "weight": "700",
+          "text": "Filter0"
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "is-active",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": ""
+        },
+        {
+          "tag": "H2",
+          "cls": "",
+          "size": "50px",
+          "line": "56px",
+          "weight": "600",
+          "text": "The everyday wardrobe"
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "product-wishlist",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": ""
+        },
+        {
+          "tag": "H3",
+          "cls": "",
+          "size": "24px",
+          "line": "30px",
+          "weight": "600",
+          "text": "Cloud Cotton Romper"
+        },
+        {
+          "tag": "P",
+          "cls": "catalogue-price",
+          "size": "15px",
+          "line": "25.5px",
+          "weight": "400",
+          "text": "₹1,550₹1,950"
+        },
+        {
+          "tag": "A",
+          "cls": "",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "600",
+          "text": "Back to collection start"
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "product-wishlist shop-look-wishlist",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": ""
+        },
+        {
+          "tag": "A",
+          "cls": "brand footer-logo",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": "Maison Miette"
+        },
+        {
+          "tag": "A",
+          "cls": "",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": ""
+        },
+        {
+          "tag": "H3",
+          "cls": "",
+          "size": "20px",
+          "line": "26px",
+          "weight": "600",
+          "text": "Shop"
+        },
+        {
+          "tag": "A",
+          "cls": "",
+          "size": "14px",
+          "line": "23.8px",
+          "weight": "400",
+          "text": "Shop all"
+        }
+      ]
+    },
+    {
+      "file": "contact.html",
+      "sizes": [
+        {
+          "tag": "BUTTON",
+          "cls": "nav-link dropdown-trigger",
+          "size": "15px",
+          "line": "25.5px",
+          "weight": "500",
+          "text": "Home"
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "icon-button desktop-action",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": ""
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "icon-button direction-button desktop-action",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "600",
+          "text": "RTL"
+        },
+        {
+          "tag": "A",
+          "cls": "header-cta desktop-action",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "600",
+          "text": "Shop Collection"
+        },
+        {
+          "tag": "SMALL",
+          "cls": "",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "400",
+          "text": "Client services"
+        },
+        {
+          "tag": "H1",
+          "cls": "",
+          "size": "59.04px",
+          "line": "57.8592px",
+          "weight": "600",
+          "text": "Questions, sizing, gifting or school orders — talk to us."
+        },
+        {
+          "tag": "P",
+          "cls": "",
+          "size": "15.68px",
+          "line": "26.656px",
+          "weight": "400",
+          "text": "Our boutique team is here for everyday questions, thoughtful size"
+        },
+        {
+          "tag": "SMALL",
+          "cls": "",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": "Orders & everyday help"
+        },
+        {
+          "tag": "H2",
+          "cls": "",
+          "size": "50px",
+          "line": "56px",
+          "weight": "600",
+          "text": "Reach the right desk"
+        },
+        {
+          "tag": "P",
+          "cls": "",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": "For orders, gifting and general questions."
+        },
+        {
+          "tag": "LABEL",
+          "cls": "",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "700",
+          "text": "Full Name *"
+        },
+        {
+          "tag": "INPUT",
+          "cls": "",
+          "size": "16px",
+          "line": "normal",
+          "weight": "500",
+          "text": ""
+        },
+        {
+          "tag": "SMALL",
+          "cls": "contact-form-error",
+          "size": "12px",
+          "line": "17.4px",
+          "weight": "600",
+          "text": ""
+        },
+        {
+          "tag": "SMALL",
+          "cls": "contact-form-hint",
+          "size": "12px",
+          "line": "17.4px",
+          "weight": "400",
+          "text": "Optional · include country code where relevant"
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "contact-select-trigger",
+          "size": "16px",
+          "line": "normal",
+          "weight": "500",
+          "text": "Choose an enquiry type"
+        },
+        {
+          "tag": "LABEL",
+          "cls": "",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": "I consent to Maison Miette using these details to respond to my e"
+        },
+        {
+          "tag": "BUTTON",
+          "cls": "",
+          "size": "12px",
+          "line": "20.4px",
+          "weight": "700",
+          "text": "Send Enquiry"
+        },
+        {
+          "tag": "P",
+          "cls": "",
+          "size": "12px",
+          "line": "18px",
+          "weight": "400",
+          "text": "This demo form does not send data until a form service is connect"
+        },
+        {
+          "tag": "SMALL",
+          "cls": "school-form-error",
+          "size": "12px",
+          "line": "18px",
+          "weight": "600",
+          "text": ""
+        },
+        {
+          "tag": "SMALL",
+          "cls": "school-form-hint",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": "A preferred timeframe is helpful but does not guarantee delivery."
+        },
+        {
+          "tag": "A",
+          "cls": "brand footer-logo",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": "Maison Miette"
+        },
+        {
+          "tag": "A",
+          "cls": "",
+          "size": "16px",
+          "line": "27.2px",
+          "weight": "400",
+          "text": ""
+        },
+        {
+          "tag": "H3",
+          "cls": "",
+          "size": "20px",
+          "line": "26px",
+          "weight": "600",
+          "text": "Shop"
+        },
+        {
+          "tag": "A",
+          "cls": "",
+          "size": "14px",
+          "line": "23.8px",
+          "weight": "400",
+          "text": "Shop all"
+        }
+      ]
+    }
+  ],
+  "behavior": {
+    "hover": "true",
+    "leave": "false",
+    "click": "true",
+    "escape": "false",
+    "scroll": {
+      "top": 0,
+      "position": "sticky"
+    },
+    "mobileMenu": {
+      "rect": {
+        "x": 0,
+        "y": 68,
+        "width": 390,
+        "height": 635,
+        "top": 68,
+        "right": 390,
+        "bottom": 703,
+        "left": 0
+      },
+      "position": "fixed",
+      "opacity": "1"
+    }
+  }
+}

@@ -1,0 +1,827 @@
+{
+  "pages": 45,
+  "checks": 90,
+  "failures": [],
+  "samples": [
+    {
+      "file": "index.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74.16,
+      "h2": 50,
+      "hero": 74.16,
+      "nav": 15
+    },
+    {
+      "file": "index.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": 42.12,
+      "nav": 15
+    },
+    {
+      "file": "index-2.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74.16,
+      "h2": 50,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "index-2.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/404.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "pages/404.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "pages/about.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": 50,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/about.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/blog-details.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": 50,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/blog-details.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/blog.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": 50,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/blog.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/booking-confirmation.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": 50,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/booking-confirmation.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/booking.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": 50,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/booking.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/coming-soon.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "pages/coming-soon.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "pages/contact.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": 50,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/contact.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/forgot-password.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 42,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "pages/forgot-password.html",
+      "width": 390,
+      "body": 16,
+      "h1": 32,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "pages/gallery.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": null,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/gallery.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": null,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/hall-details.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": 50,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/hall-details.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/halls.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": 50,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/halls.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/login.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 42,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "pages/login.html",
+      "width": 390,
+      "body": 16,
+      "h1": 32,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "pages/maintenance.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "pages/maintenance.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "pages/packages.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": 50,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/packages.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/pricing.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": 50,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/pricing.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/register.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 42,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "pages/register.html",
+      "width": 390,
+      "body": 16,
+      "h1": 32,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "pages/service-details.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": 50,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/service-details.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/services.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 74,
+      "h2": 50,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "pages/services.html",
+      "width": 390,
+      "body": 16,
+      "h1": 42.12,
+      "h2": 32,
+      "hero": null,
+      "nav": 15
+    },
+    {
+      "file": "dashboard/client/availability.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/availability.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/bookings.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/bookings.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/catering.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/catering.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/decorations.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/decorations.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/index.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/index.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/invoices.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/invoices.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/new-booking.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": 20,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/new-booking.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": 20,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/notifications.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/notifications.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/payments.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/payments.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/profile.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/profile.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/settings.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/client/settings.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/bookings.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/bookings.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/calendar.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/calendar.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/catering.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/catering.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/clients.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/clients.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/decorations.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/decorations.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/halls.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/halls.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/index.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/index.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/messages.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/messages.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/notifications.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/notifications.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/packages.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/packages.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/payments.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/payments.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/reports.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/reports.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/settings.html",
+      "width": 1440,
+      "body": 16,
+      "h1": 40,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    },
+    {
+      "file": "dashboard/admin/settings.html",
+      "width": 390,
+      "body": 16,
+      "h1": 30,
+      "h2": null,
+      "hero": null,
+      "nav": null
+    }
+  ],
+  "headerBehavior": [
+    "Hover opens",
+    "Pointer leave closes",
+    "Click opens",
+    "Escape closes",
+    "ArrowDown focuses first submenu link",
+    "Sticky header",
+    "Full-width mobile menu below header",
+    "Mobile close clears scroll lock"
+  ]
+}
